@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import csv
-import requests
 
 
 def divTextScrap(html, divClass, debug=False):
@@ -32,7 +31,6 @@ def parseCardInfo(cardText):
     return [pkmnNumber, pkmnName]
 
 
-
 def logIntoCSV(cardList, csvFile):
     
     for card in cardList:
@@ -46,7 +44,6 @@ def logIntoCSV(cardList, csvFile):
             writer.writerow(cardInfo)
 
         file.close()
-        
 
 
 def main():
@@ -65,10 +62,8 @@ def main():
     stdCSVFile = "CrownZenith - STD Set.csv"
     ggCSVFile = "CrownZenith - GG Set.csv"
 
-    # logIntoCSV(stdSet, stdCSVFile)
+    logIntoCSV(stdSet, stdCSVFile)
     logIntoCSV(ggSet, ggCSVFile)
-
-
 
 
 if __name__ == "__main__":
