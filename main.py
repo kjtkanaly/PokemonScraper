@@ -1,69 +1,67 @@
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
 import csv
+import numpy as np
+from pokemontcgsdk import Card
+from pokemontcgsdk import RestClient
+import config
 
 
-def divTextScrap(html, divClass, debug=False):
-    soup = BeautifulSoup(html, "html.parser")
+def getCardsInSet(setID, fileName):
 
-    cards = soup.find_all("div", {"class": divClass})
+    cards = Card.where(q=("set.id:" + setID))
 
-    if debug:
-        for card in cards:
-            print(card.text)
-    
-    return cards
+    for card in cards:
+        cardPrices = card.tcgplayer.prices
 
+        cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
+                    checkIfPokeCardHasPrice(cardPrices.normal), 
+                    checkIfPokeCardHasPrice(cardPrices.holofoil),
+                    checkIfPokeCardHasPrice(cardPrices.reverseHolofoil), 
+                    checkIfPokeCardHasPrice(cardPrices.firstEditionHolofoil),
+                    checkIfPokeCardHasPrice(cardPrices.firstEditionNormal),
+                    card.tcgplayer.updatedAt]
 
-def getUrlHTML(url):
-
-    page = urlopen(url)
-    return page.read().decode("utf-8")
-
-
-def parseCardInfo(cardText):
-
-    pkmnNumber = cardText.split("#")[1]
-    pkmnNumber = pkmnNumber.split()[0]
-
-    pkmnName = cardText.split("- ")[1]
-
-    return [pkmnNumber, pkmnName]
+        appendPokeCSV(fileName, cardInfo)
 
 
-def logIntoCSV(cardList, csvFile):
-    
-    for card in cardList:
-        parseCardInfo(card.text)
+def checkIfPokeCardHasPrice(cardPrice):
+    if not(cardPrice == None):
+        return cardPrice.market
+    else:
+        return None
 
-    with open(csvFile, 'a', newline='\n') as file:
+
+def initPokeCSV(fileName, column):
+    with open(fileName, 'w', newline='') as file:
         writer = csv.writer(file)
+        writer.writerow(column)
 
-        for card in cardList:
-            cardInfo = parseCardInfo(card.text)
-            writer.writerow(cardInfo)
 
-        file.close()
+def appendPokeCSV(fileName, cardInfo):
+    with open(fileName, 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(cardInfo)
 
 
 def main():
 
-    stdURL = "https://www.pokellector.com/Crown-Zenith-Expansion/"
-    stdSetHTML = getUrlHTML(stdURL)
-
-    ggURL = "https://www.pokellector.com/Crown-Zenith-Galarian-Gallery-Expansion/"
-    ggSetHTML = getUrlHTML(ggURL)
-
-    divClass = "plaque"
-    stdSet = divTextScrap(html=stdSetHTML, divClass=divClass)
-    ggSet = divTextScrap(html=ggSetHTML, divClass=divClass)
-
-    coloumns = ["Number", "Name"]
     stdCSVFile = "CrownZenith - STD Set.csv"
     ggCSVFile = "CrownZenith - GG Set.csv"
+    csvColumn = ["ID", "Set Number", "Card Name", "Rarity", "Artist",
+                 "Normal Price($)", "Holo Foil Price ($)", "Reverse Holo Price ($)", 
+                 "First Edition Holo Price ($)", "First Edition Normal Price ($)",
+                 "Updated At (YYYY/MM/DD)"]
 
-    logIntoCSV(stdSet, stdCSVFile)
-    logIntoCSV(ggSet, ggCSVFile)
+    initPokeCSV(stdCSVFile, csvColumn)
+    initPokeCSV(ggCSVFile, csvColumn)
+
+    pokeAPIkey = config.getPokeAPIkey()
+    RestClient.configure(pokeAPIkey)
+
+    stdId = "swsh12pt5"
+    ggId = "swsh12pt5gg"
+
+    getCardsInSet(stdId, stdCSVFile)
+    getCardsInSet(ggId, ggCSVFile)
 
 
 if __name__ == "__main__":
