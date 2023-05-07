@@ -1,133 +1,91 @@
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
 import csv
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.remote.command import Command
-from selenium.webdriver.common.action_chains import ActionChains
-import time
 import numpy as np
+from pokemontcgsdk import Card
+from pokemontcgsdk import Set
+from pokemontcgsdk import RestClient
+import config
 
 
-def divTextScrap(html, divClass, debug=False):
-    soup = BeautifulSoup(html, "html.parser")
+def getOneCardInSet(setID):
+    sets = Set.find(setID)
 
-    cards = soup.find_all("div", {"class": divClass})
-
-    if debug:
-        for card in cards:
-            print(card.text)
-    
-    return cards
+    card = Card.find(setID )
 
 
-def getUrlHTML(url):
+def getCardsInSet(setID, fileName, idIndexBridge):
 
-    page = urlopen(url)
-    return page.read().decode("utf-8")
+    cardSet = Set.find(setID)
+    cardCount = cardSet.total
+
+    for cardIndex in range(1, cardCount + 1):
+        card = Card.find(setID + idIndexBridge + str(cardIndex))
+        cardPrices = card.tcgplayer.prices
+
+        cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
+                    checkIfPokeCardHasPrice(cardPrices.normal), 
+                    checkIfPokeCardHasPrice(cardPrices.holofoil),
+                    checkIfPokeCardHasPrice(cardPrices.reverseHolofoil), 
+                    checkIfPokeCardHasPrice(cardPrices.firstEditionHolofoil),
+                    checkIfPokeCardHasPrice(cardPrices.firstEditionNormal),
+                    card.tcgplayer.updatedAt]
+
+        appendPokeCSV(fileName, cardInfo)
 
 
-def parseCardInfo(cardText):
-
-    pkmnNumber = cardText.split("#")[1]
-    pkmnNumber = pkmnNumber.split()[0]
-
-    pkmnName = cardText.split("- ")[1]
-
-    return [pkmnNumber, pkmnName]
+def checkIfPokeCardHasPrice(cardPrice):
+    if not(cardPrice == None):
+        return cardPrice.market
+    else:
+        return None
 
 
-def logIntoCSV(cardList, csvFile):
-    
-    for card in cardList:
-        parseCardInfo(card.text)
-
-    with open(csvFile, 'a', newline='\n') as file:
+def initPokeCSV(fileName, column):
+    with open(fileName, 'w', newline='') as file:
         writer = csv.writer(file)
-
-        for card in cardList:
-            cardInfo = parseCardInfo(card.text)
-            writer.writerow(cardInfo)
-
-        file.close()
-
-def webMain(url):
-    driver = webdriver.Chrome()
-    driver.get(url)
-
-    time.sleep(2)
-
-    cardElements = driver.find_elements(By.CLASS_NAME, "card ")
-
-    cardLinks = []
-    allCardPrices = np.zeros((1, len(cardElements)))
+        writer.writerow(column)
 
 
-    for cardElement in cardElements:
-        print(cardElement.text)
-
-        linkElement = cardElement.find_element(By.XPATH, ".//a")
-
-        cardLinks.append(linkElement.get_attribute("href"))
-
-        #print(linkElement)
-        '''
-        cardElement.click()
-
-        priceElements = driver.find_elements(By.CLASS_NAME, "price")
-
-        cardPrices = np.empty((0))
-
-        for priceElement in priceElements:
-            if priceElement.text[0] == "$":
-                cardPrices = np.append(cardPrices, float(priceElement.text[1:]))
-
-        np.append(allCardPrices, np.round(np.mean(cardPrices), 2))
-
-        driver.back()
-        time.sleep(2)
-        '''
-
-    print(cardLinks)
-
-def testNP():
-    priceTexts = ['0.01', '0.35', '1.23']
-    cardPrices = np.empty((0))
-
-    for priceText in priceTexts:
-        cardPrices = np.append(cardPrices, float(priceText))
-
-    print(cardPrices)
-    print(np.round(np.mean(cardPrices), 2))
+def appendPokeCSV(fileName, cardInfo):
+    with open(fileName, 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(cardInfo)
 
 
 def main():
 
-    stdURL = "https://www.pokellector.com/Crown-Zenith-Expansion/"
-    ggURL = "https://www.pokellector.com/Crown-Zenith-Galarian-Gallery-Expansion/"
-
-    '''
-    stdSetHTML = getUrlHTML(stdURL)
-    ggSetHTML = getUrlHTML(ggURL)
-
-    divClass = "plaque"
-    stdSet = divTextScrap(html=stdSetHTML, divClass=divClass)
-    ggSet = divTextScrap(html=ggSetHTML, divClass=divClass)
-
-    coloumns = ["Number", "Name"]
     stdCSVFile = "CrownZenith - STD Set.csv"
     ggCSVFile = "CrownZenith - GG Set.csv"
+    csvColumn = ["ID", "Set Number", "Card Name", "Rarity", "Artist",
+                 "Normal Price($)", "Holo Foil Price ($)", "Reverse Holo Price ($)", 
+                 "First Edition Holo Price ($)", "First Edition Normal Price ($)",
+                 "Updated At (YYYY/MM/DD)"]
 
-    logIntoCSV(stdSet, stdCSVFile)
-    logIntoCSV(ggSet, ggCSVFile)
-    '''
+    # initPokeCSV(stdCSVFile, csvColumn)
+    initPokeCSV(ggCSVFile, csvColumn)
 
-    webMain(stdURL)
-    # testNP()
+    pokeAPIkey = config.getPokeAPIkey()
+    RestClient.configure(pokeAPIkey)
 
+    stdId = "swsh12pt5"
+    ggId = "swsh12pt5gg"
 
+    # getCardsInSet(stdId, stdCSVFile, "-")
+    getCardsInSet(ggId, ggCSVFile, "-GG")
 
 
 if __name__ == "__main__":
     main()
+
+
+
+'''
+! To Do
+1. X Write function to go through each card in both std and gg
+2.   Wrtie function that will create/init a CSV file to log poke info into
+     X Decide on name
+     X Decdie on columns
+     X Creat the function
+3. X Add to the fx that cycles through each card and have it enter the data
+     into the csv.
+4.   Account for the Gallarian Galley set haveing weird indexes before
+'''
