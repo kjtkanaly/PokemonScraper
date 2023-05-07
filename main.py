@@ -1,24 +1,15 @@
 import csv
 import numpy as np
 from pokemontcgsdk import Card
-from pokemontcgsdk import Set
 from pokemontcgsdk import RestClient
 import config
 
 
-def getOneCardInSet(setID):
-    sets = Set.find(setID)
+def getCardsInSet(setID, fileName):
 
-    card = Card.find(setID )
+    cards = Card.where(q=("set.id:" + setID))
 
-
-def getCardsInSet(setID, fileName, idIndexBridge):
-
-    cardSet = Set.find(setID)
-    cardCount = cardSet.total
-
-    for cardIndex in range(1, cardCount + 1):
-        card = Card.find(setID + idIndexBridge + str(cardIndex))
+    for card in cards:
         cardPrices = card.tcgplayer.prices
 
         cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
@@ -60,7 +51,7 @@ def main():
                  "First Edition Holo Price ($)", "First Edition Normal Price ($)",
                  "Updated At (YYYY/MM/DD)"]
 
-    # initPokeCSV(stdCSVFile, csvColumn)
+    initPokeCSV(stdCSVFile, csvColumn)
     initPokeCSV(ggCSVFile, csvColumn)
 
     pokeAPIkey = config.getPokeAPIkey()
@@ -69,23 +60,9 @@ def main():
     stdId = "swsh12pt5"
     ggId = "swsh12pt5gg"
 
-    # getCardsInSet(stdId, stdCSVFile, "-")
-    getCardsInSet(ggId, ggCSVFile, "-GG")
+    getCardsInSet(stdId, stdCSVFile)
+    getCardsInSet(ggId, ggCSVFile)
 
 
 if __name__ == "__main__":
     main()
-
-
-
-'''
-! To Do
-1. X Write function to go through each card in both std and gg
-2.   Wrtie function that will create/init a CSV file to log poke info into
-     X Decide on name
-     X Decdie on columns
-     X Creat the function
-3. X Add to the fx that cycles through each card and have it enter the data
-     into the csv.
-4.   Account for the Gallarian Galley set haveing weird indexes before
-'''

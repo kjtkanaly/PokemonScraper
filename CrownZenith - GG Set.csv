@@ -1,10 +1,71 @@
 ID,Set Number,Card Name,Rarity,Artist,Normal Price($),Holo Foil Price ($),Reverse Holo Price ($),First Edition Holo Price ($),First Edition Normal Price ($),Updated At (YYYY/MM/DD)
-swsh12pt5gg-GG01,GG01,Hisuian Voltorb,Trainer Gallery Rare Holo,HYOGONOSUKE,,0.6,,,,2023/05/06
-swsh12pt5gg-GG02,GG02,Kricketune,Trainer Gallery Rare Holo,Nurikabe,,1.27,,,,2023/05/06
-swsh12pt5gg-GG03,GG03,Magmortar,Trainer Gallery Rare Holo,Saya Tsuruta,,1.58,,,,2023/05/06
-swsh12pt5gg-GG04,GG04,Oricorio,Trainer Gallery Rare Holo,Tomokazu Komiya,,0.91,,,,2023/05/06
-swsh12pt5gg-GG05,GG05,Lapras,Trainer Gallery Rare Holo,zig,,2.61,,,,2023/05/06
-swsh12pt5gg-GG06,GG06,Manaphy,Trainer Gallery Rare Holo,Taira Akitsu,,2.8,,,,2023/05/06
-swsh12pt5gg-GG07,GG07,Keldeo,Trainer Gallery Rare Holo,KEIICHIRO ITO,,2.11,,,,2023/05/06
-swsh12pt5gg-GG08,GG08,Electivire,Trainer Gallery Rare Holo,Mina Nakai,,1.27,,,,2023/05/06
-swsh12pt5gg-GG09,GG09,Toxtricity,Trainer Gallery Rare Holo,Nelnal,,0.87,,,,2023/05/06
+swsh12pt5gg-GG01,GG01,Hisuian Voltorb,Trainer Gallery Rare Holo,HYOGONOSUKE,,0.66,,,,2023/05/07
+swsh12pt5gg-GG02,GG02,Kricketune,Trainer Gallery Rare Holo,Nurikabe,,1.3,,,,2023/05/07
+swsh12pt5gg-GG03,GG03,Magmortar,Trainer Gallery Rare Holo,Saya Tsuruta,,1.47,,,,2023/05/07
+swsh12pt5gg-GG04,GG04,Oricorio,Trainer Gallery Rare Holo,Tomokazu Komiya,,0.99,,,,2023/05/07
+swsh12pt5gg-GG05,GG05,Lapras,Trainer Gallery Rare Holo,zig,,2.62,,,,2023/05/07
+swsh12pt5gg-GG06,GG06,Manaphy,Trainer Gallery Rare Holo,Taira Akitsu,,2.73,,,,2023/05/07
+swsh12pt5gg-GG07,GG07,Keldeo,Trainer Gallery Rare Holo,KEIICHIRO ITO,,2.21,,,,2023/05/07
+swsh12pt5gg-GG08,GG08,Electivire,Trainer Gallery Rare Holo,Mina Nakai,,1.41,,,,2023/05/07
+swsh12pt5gg-GG09,GG09,Toxtricity,Trainer Gallery Rare Holo,Nelnal,,0.89,,,,2023/05/07
+swsh12pt5gg-GG10,GG10,Mew,Trainer Gallery Rare Holo,Ryota Murayama,,5.91,,,,2023/05/07
+swsh12pt5gg-GG11,GG11,Lunatone,Trainer Gallery Rare Holo,sowsow,,1.72,,,,2023/05/07
+swsh12pt5gg-GG12,GG12,Deoxys,Trainer Gallery Rare Holo,Scav,,1.9,,,,2023/05/07
+swsh12pt5gg-GG13,GG13,Diancie,Trainer Gallery Rare Holo,Haruko Ichikawa,,1.01,,,,2023/05/07
+swsh12pt5gg-GG14,GG14,Comfey,Trainer Gallery Rare Holo,Yano Keiji,,3.17,,,,2023/05/07
+swsh12pt5gg-GG15,GG15,Solrock,Trainer Gallery Rare Holo,Nobuhiro Imagawa,,1.9,,,,2023/05/07
+swsh12pt5gg-GG16,GG16,Absol,Trainer Gallery Rare Holo,Uta,,1.32,,,,2023/05/07
+swsh12pt5gg-GG17,GG17,Thievul,Trainer Gallery Rare Holo,NC Empire,,1.06,,,,2023/05/07
+swsh12pt5gg-GG18,GG18,Magnezone,Trainer Gallery Rare Holo,Shinya Komatsu,,1.79,,,,2023/05/07
+swsh12pt5gg-GG19,GG19,Altaria,Trainer Gallery Rare Holo,Asako Ito,,1.3,,,,2023/05/07
+swsh12pt5gg-GG20,GG20,Latias,Trainer Gallery Rare Holo,Teeziro,,2.41,,,,2023/05/07
+swsh12pt5gg-GG21,GG21,Hisuian Goodra,Trainer Gallery Rare Holo,You Iribi,,1.21,,,,2023/05/07
+swsh12pt5gg-GG22,GG22,Ditto,Trainer Gallery Rare Holo,Miki Tanaka,,1.52,,,,2023/05/07
+swsh12pt5gg-GG23,GG23,Dunsparce,Trainer Gallery Rare Holo,Kurata So,,0.96,,,,2023/05/07
+swsh12pt5gg-GG24,GG24,Miltank,Trainer Gallery Rare Holo,Yuu Nishida,,2.21,,,,2023/05/07
+swsh12pt5gg-GG25,GG25,Bibarel,Trainer Gallery Rare Holo,Amelicart,,1.99,,,,2023/05/07
+swsh12pt5gg-GG26,GG26,Riolu,Trainer Gallery Rare Holo,Kouki Saitou,,1.13,,,,2023/05/07
+swsh12pt5gg-GG27,GG27,Swablu,Trainer Gallery Rare Holo,Kouki Saitou,,0.89,,,,2023/05/07
+swsh12pt5gg-GG28,GG28,Duskull,Trainer Gallery Rare Holo,Kouki Saitou,,0.73,,,,2023/05/07
+swsh12pt5gg-GG29,GG29,Bidoof,Trainer Gallery Rare Holo,Kouki Saitou,,2.16,,,,2023/05/07
+swsh12pt5gg-GG30,GG30,Pikachu,Trainer Gallery Rare Holo,Kouki Saitou,,4.62,,,,2023/05/07
+swsh12pt5gg-GG31,GG31,Turtwig,Trainer Gallery Rare Holo,Kouki Saitou,,1.33,,,,2023/05/07
+swsh12pt5gg-GG32,GG32,Paras,Trainer Gallery Rare Holo,Kouki Saitou,,0.89,,,,2023/05/07
+swsh12pt5gg-GG33,GG33,Poochyena,Trainer Gallery Rare Holo,Kouki Saitou,,0.83,,,,2023/05/07
+swsh12pt5gg-GG34,GG34,Mareep,Trainer Gallery Rare Holo,Kouki Saitou,,1.75,,,,2023/05/07
+swsh12pt5gg-GG35,GG35,Leafeon VSTAR,Rare Holo VSTAR,Jiro Sasumo,,26.09,,,,2023/05/07
+swsh12pt5gg-GG36,GG36,Entei V,Rare Holo V,Shigenori Negishi,,13.54,,,,2023/05/07
+swsh12pt5gg-GG37,GG37,Simisear VSTAR,Rare Holo VSTAR,nagano,,12.51,,,,2023/05/07
+swsh12pt5gg-GG38,GG38,Suicune V,Rare Holo V,Atsushi Furusawa,,19.49,,,,2023/05/07
+swsh12pt5gg-GG39,GG39,Lumineon V,Rare Holo V,Jerky,,11.39,,,,2023/05/07
+swsh12pt5gg-GG40,GG40,Glaceon VSTAR,Rare Holo VSTAR,Gemi,,20.08,,,,2023/05/07
+swsh12pt5gg-GG41,GG41,Raikou V,Rare Holo V,nagimiso,,24.27,,,,2023/05/07
+swsh12pt5gg-GG42,GG42,Zeraora VMAX,Rare Holo VMAX,aoki,,10.0,,,,2023/05/07
+swsh12pt5gg-GG43,GG43,Zeraora VSTAR,Rare Holo VSTAR,Ligton,,9.13,,,,2023/05/07
+swsh12pt5gg-GG44,GG44,Mewtwo VSTAR,Rare Holo VSTAR,GOSSAN,,69.15,,,,2023/05/07
+swsh12pt5gg-GG45,GG45,Deoxys VMAX,Rare Holo VMAX,Akira Komayama,,10.9,,,,2023/05/07
+swsh12pt5gg-GG46,GG46,Deoxys VSTAR,Rare Holo VSTAR,DOM,,9.11,,,,2023/05/07
+swsh12pt5gg-GG47,GG47,Hatterene VMAX,Rare Holo VMAX,sui,,4.25,,,,2023/05/07
+swsh12pt5gg-GG48,GG48,Zacian V,Rare Holo V,Hataya,,20.61,,,,2023/05/07
+swsh12pt5gg-GG49,GG49,Drapion V,Rare Holo V,Yuka Morii,,8.5,,,,2023/05/07
+swsh12pt5gg-GG50,GG50,Darkrai VSTAR,Rare Holo VSTAR,Pani Kobayashi,,17.56,,,,2023/05/07
+swsh12pt5gg-GG51,GG51,Hisuian Samurott V,Rare Holo V,kodama,,8.08,,,,2023/05/07
+swsh12pt5gg-GG52,GG52,Hisuian Samurott VSTAR,Rare Holo VSTAR,Shibuzoh.,,5.9,,,,2023/05/07
+swsh12pt5gg-GG53,GG53,Hoopa V,Rare Holo V,OKACHEKE,,4.98,,,,2023/05/07
+swsh12pt5gg-GG54,GG54,Zamazenta V,Rare Holo V,Haru Akasaka,,8.72,,,,2023/05/07
+swsh12pt5gg-GG55,GG55,Regigigas VSTAR,Rare Holo VSTAR,Aya Kusube,,9.39,,,,2023/05/07
+swsh12pt5gg-GG56,GG56,Hisuian Zoroark VSTAR,Rare Holo VSTAR,SIE NANAHARA,,17.78,,,,2023/05/07
+swsh12pt5gg-GG57,GG57,Adaman,Rare Ultra,Naoki Saito,,4.86,,,,2023/05/07
+swsh12pt5gg-GG58,GG58,Cheren's Care,Rare Ultra,chibi,,3.36,,,,2023/05/07
+swsh12pt5gg-GG59,GG59,Colress's Experiment,Rare Ultra,kantaro,,10.46,,,,2023/05/07
+swsh12pt5gg-GG60,GG60,Cynthia's Ambition,Rare Ultra,Atsuya Uki,,13.2,,,,2023/05/07
+swsh12pt5gg-GG61,GG61,Gardenia's Vigor,Rare Ultra,Yoriyuki Ikegami,,8.39,,,,2023/05/07
+swsh12pt5gg-GG62,GG62,Grant,Rare Ultra,Oswaldo KATO,,2.65,,,,2023/05/07
+swsh12pt5gg-GG63,GG63,Irida,Rare Ultra,Naoki Saito,,17.21,,,,2023/05/07
+swsh12pt5gg-GG64,GG64,Melony,Rare Ultra,saino misaki,,8.62,,,,2023/05/07
+swsh12pt5gg-GG65,GG65,Raihan,Rare Ultra,GIDORA,,5.63,,,,2023/05/07
+swsh12pt5gg-GG66,GG66,Roxanne,Rare Ultra,Toshinao Aoki,,9.49,,,,2023/05/07
+swsh12pt5gg-GG67,GG67,Origin Forme Palkia VSTAR,Rare Secret,AKIRA EGAWA,,42.51,,,,2023/05/07
+swsh12pt5gg-GG68,GG68,Origin Forme Dialga VSTAR,Rare Secret,AKIRA EGAWA,,44.93,,,,2023/05/07
+swsh12pt5gg-GG69,GG69,Giratina VSTAR,Rare Secret,AKIRA EGAWA,,101.91,,,,2023/05/07
+swsh12pt5gg-GG70,GG70,Arceus VSTAR,Rare Secret,AKIRA EGAWA,,70.21,,,,2023/05/07
