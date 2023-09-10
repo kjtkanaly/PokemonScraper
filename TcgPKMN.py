@@ -10,6 +10,9 @@ def GetCardsInSet(setID):
     for card in cards:
         cardPrices = card.tcgplayer.prices
 
+        if cardPrices is None:
+            continue
+
         cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
                     CheckIfPokeCardHasPrice(cardPrices.normal), 
                     CheckIfPokeCardHasPrice(cardPrices.holofoil),
@@ -24,10 +27,11 @@ def GetCardsInSet(setID):
 
 
 def CheckIfPokeCardHasPrice(cardPrice):
-    if not(cardPrice == None):
-        return cardPrice.market
-    else:
+    if cardPrice is None:
         return None
+    else:
+        return cardPrice.market
+   
     
 def InitPokeCSV(fileName, column):
     with open(fileName, 'w', newline='') as file:
@@ -50,3 +54,14 @@ def GetAllSetIDs():
         setsInfo.append([set.name, set.id])
 
     return setsInfo
+
+
+def ReadInSetCSV(setsListCSV):
+    setsList = []
+
+    with open(setsListCSV, 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            setsList.append(row)
+    
+    return setsList[1:]

@@ -2,6 +2,14 @@ from pokemontcgsdk import RestClient
 import TcgPKMN as TP
 import config
 
+def LoopOverEachSet(setsList):
+    for set in setsList:
+        setName = set[0]
+        setID = set[1]
+        setFileName = setName + ".csv"
+
+        GetSetCardsInfo(setID, setFileName)
+
 def GetSetCardsInfo(setID, setCSVFile):
     csvColumn = ["ID", "Set Number", "Card Name", "Rarity", "Artist",
                  "Normal Price($)", "Holo Foil Price ($)", "Reverse Holo Price ($)", 
@@ -19,6 +27,10 @@ def GetSetIDs(idsFileName):
     TP.InitPokeCSV(idsFileName, csvColumn)
     TP.AppendPokeCSV(idsFileName, setsInfo)
 
+def GetSetIDsFromCSV(setsListCSV):
+    # Get List of sets and their ids
+    return TP.ReadInSetCSV(setsListCSV)
+
 def main():
     pokeAPIkey = config.getPokeAPIkey()
     RestClient.configure(pokeAPIkey)
@@ -28,7 +40,11 @@ def main():
     # GetSetCardsInfo(stdId, stdCSVFile)
 
     idsFileName = "All Pokemon Set IDs.csv"
-    GetSetIDs(idsFileName)
+    # GetSetIDs(idsFileName)
+
+    setsListCSV = "Sets we have.csv"
+    setsList = GetSetIDsFromCSV(setsListCSV)
+    LoopOverEachSet(setsList)
 
 
 if __name__ == "__main__":
