@@ -1,5 +1,6 @@
 import csv
 from pokemontcgsdk import Card
+from pokemontcgsdk import Set
 
 def GetCardsInSet(setID):
 
@@ -39,3 +40,13 @@ def AppendPokeCSV(fileName, infoList):
         writer = csv.writer(file)
         for info in infoList:
             writer.writerow(info)
+
+
+def GetAllSetIDs():
+    sets = Set.all()
+    setsInfo = []
+
+    for set in sets:
+        setsInfo.append([set.name, set.id])
+
+    return setsInfo
