@@ -1,132 +1,132 @@
-ID,Set Number,Card Name,Rarity,Artist,Normal Price($),Holo Foil Price ($),Reverse Holo Price ($),First Edition Holo Price ($),First Edition Normal Price ($),Updated At (YYYY/MM/DD)
-gym2-1,1,Blaine's Arcanine,Rare Holo,Ken Sugimori,,,,200.49,,2023/09/10
-gym2-2,2,Blaine's Charizard,Rare Holo,Ken Sugimori,,,,749.49,,2023/09/10
-gym2-3,3,Brock's Ninetales,Rare Holo,Ken Sugimori,,,,76.87,,2023/09/10
-gym2-4,4,Erika's Venusaur,Rare Holo,Ken Sugimori,,,,165.0,,2023/09/10
-gym2-5,5,Giovanni's Gyarados,Rare Holo,Ken Sugimori,,,,119.49,,2023/09/10
-gym2-6,6,Giovanni's Machamp,Rare Holo,Ken Sugimori,,,,86.16,,2023/09/10
-gym2-7,7,Giovanni's Nidoking,Rare Holo,Ken Sugimori,,,,96.42,,2023/09/10
-gym2-8,8,Giovanni's Persian,Rare Holo,Ken Sugimori,,,,70.64,,2023/09/10
-gym2-9,9,Koga's Beedrill,Rare Holo,Ken Sugimori,,,,67.16,,2023/09/10
-gym2-10,10,Koga's Ditto,Rare Holo,Ken Sugimori,,,,54.37,,2023/09/10
-gym2-11,11,Lt. Surge's Raichu,Rare Holo,Ken Sugimori,,,,82.41,,2023/09/10
-gym2-12,12,Misty's Golduck,Rare Holo,Ken Sugimori,,,,70.67,,2023/09/10
-gym2-13,13,Misty's Gyarados,Rare Holo,Ken Sugimori,,,,187.19,,2023/09/10
-gym2-14,14,Rocket's Mewtwo,Rare Holo,Shin-ichi Yoshida,,,,299.69,,2023/09/10
-gym2-15,15,Rocket's Zapdos,Rare Holo,Shin-ichi Yoshida,,,,149.15,,2023/09/10
-gym2-16,16,Sabrina's Alakazam,Rare Holo,Ken Sugimori,,,,131.47,,2023/09/10
-gym2-17,17,Blaine,Rare Holo,Ken Sugimori,,,,56.45,,2023/09/10
-gym2-18,18,Giovanni,Rare Holo,Ken Sugimori,,,,53.34,,2023/09/10
-gym2-19,19,Koga,Rare Holo,Ken Sugimori,,,,45.01,,2023/09/10
-gym2-20,20,Sabrina,Rare Holo,Ken Sugimori,,,,57.58,,2023/09/10
-gym2-21,21,Blaine's Ninetales,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-22,22,Brock's Dugtrio,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-23,23,Giovanni's Nidoqueen,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-24,24,Giovanni's Pinsir,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-25,25,Koga's Arbok,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-26,26,Koga's Muk,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-27,27,Koga's Pidgeotto,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-28,28,Lt. Surge's Jolteon,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-29,29,Sabrina's Gengar,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-30,30,Sabrina's Golduck,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-31,31,Blaine's Charmeleon,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-32,32,Blaine's Dodrio,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-33,33,Blaine's Rapidash,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-34,34,Brock's Graveler,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-35,35,Brock's Primeape,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-36,36,Brock's Sandslash,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-37,37,Brock's Vulpix,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-38,38,Erika's Bellsprout,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-39,39,Erika's Bulbasaur,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-40,40,Erika's Clefairy,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-41,41,Erika's Ivysaur,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-42,42,Giovanni's Machoke,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-43,43,Giovanni's Meowth,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-44,44,Giovanni's Nidorina,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-45,45,Giovanni's Nidorino,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-46,46,Koga's Golbat,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-47,47,Koga's Kakuna,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-48,48,Koga's Koffing,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-49,49,Koga's Pidgey,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-50,50,Koga's Weezing,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-51,51,Lt. Surge's Eevee,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-52,52,Lt. Surge's Electrode,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-53,53,Lt. Surge's Raticate,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-54,54,Misty's Dewgong,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-55,55,Sabrina's Haunter,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-56,56,Sabrina's Hypno,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-57,57,Sabrina's Jynx,Uncommon,Atsuko Nishida,,,,,,2023/09/10
-gym2-58,58,Sabrina's Kadabra,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-59,59,Sabrina's Mr. Mime,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-60,60,Blaine's Charmander,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-61,61,Blaine's Doduo,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-62,62,Blaine's Growlithe,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-63,63,Blaine's Mankey,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-64,64,Blaine's Ponyta,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-65,65,Blaine's Rhyhorn,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-66,66,Blaine's Vulpix,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-67,67,Brock's Diglett,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-68,68,Brock's Geodude,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-69,69,Erika's Jigglypuff,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-70,70,Erika's Oddish,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-71,71,Erika's Paras,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-72,72,Giovanni's Machop,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-73,73,Giovanni's Magikarp,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-74,74,Giovanni's Meowth,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-75,75,Giovanni's Nidoran ♀,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-76,76,Giovanni's Nidoran ♂,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-77,77,Koga's Ekans,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-78,78,Koga's Grimer,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-79,79,Koga's Koffing,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-80,80,Koga's Pidgey,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-81,81,Koga's Tangela,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-82,82,Koga's Weedle,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-83,83,Koga's Zubat,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-84,84,Lt. Surge's Pikachu,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-85,85,Lt. Surge's Rattata,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-86,86,Lt. Surge's Voltorb,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-87,87,Misty's Horsea,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-88,88,Misty's Magikarp,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-89,89,Misty's Poliwag,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-90,90,Misty's Psyduck,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-91,91,Misty's Seel,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-92,92,Misty's Staryu,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-93,93,Sabrina's Abra,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-94,94,Sabrina's Abra,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-95,95,Sabrina's Drowzee,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-96,96,Sabrina's Gastly,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-97,97,Sabrina's Gastly,Common,Atsuko Nishida,,,,,,2023/09/10
-gym2-98,98,Sabrina's Porygon,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-99,99,Sabrina's Psyduck,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-100,100,Blaine,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-101,101,Brock's Protection,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-102,102,Chaos Gym,Rare,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-103,103,Erika's Kindness,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-104,104,Giovanni,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-105,105,Giovanni's Last Resort,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-106,106,Koga,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-107,107,Lt. Surge's Secret Plan,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-108,108,Misty's Wish,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-109,109,Resistance Gym,Rare,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-110,110,Sabrina,Rare,Ken Sugimori,,,,,,2023/09/10
-gym2-111,111,Blaine's Quiz #2,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-112,112,Blaine's Quiz #3,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-114,114,Fuchsia City Gym,Uncommon,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-115,115,Koga's Ninja Trick,Uncommon,Sumiyoshi Kizuki,,,,,,2023/09/10
-gym2-116,116,Master Ball,Uncommon,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-117,117,Max Revive,Uncommon,Hikaru Koike,,,,,,2023/09/10
-gym2-118,118,Misty's Tears,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-119,119,Rocket's Minefield Gym,Uncommon,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-120,120,Rocket's Secret Experiment,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-121,121,Sabrina's Psychic Control,Uncommon,Ken Sugimori,,,,,,2023/09/10
-gym2-122,122,Saffron City Gym,Uncommon,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-123,123,Viridian City Gym,Uncommon,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-124,124,Fervor,Common,Ken Sugimori,,,,,,2023/09/10
-gym2-125,125,Transparent Walls,Common,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-126,126,Warp Point,Common,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-127,127,Fighting Energy,,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-128,128,Fire Energy,,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-129,129,Grass Energy,,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-130,130,Lightning Energy,,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-131,131,Psychic Energy,,Keiji Kinebuchi,,,,,,2023/09/10
-gym2-132,132,Water Energy,,Keiji Kinebuchi,,,,,,2023/09/10
+ID,Set Number,Card Name,Rarity,Artist,TCG Normal,TCG Holo,TCG Reverse,Normal Price($),Reverse Holo Price ($),Updated At (YYYY/MM/DD)
+gym2-1,1,Blaine's Arcanine,Rare Holo,Ken Sugimori,0.0,0.0,0.0,34.29,0.0,2023/09/13
+gym2-2,2,Blaine's Charizard,Rare Holo,Ken Sugimori,0.0,0.0,0.0,230.07,0.0,2023/09/13
+gym2-3,3,Brock's Ninetales,Rare Holo,Ken Sugimori,0.0,0.0,0.0,26.66,0.0,2023/09/13
+gym2-4,4,Erika's Venusaur,Rare Holo,Ken Sugimori,0.0,0.0,0.0,94.75,0.0,2023/09/13
+gym2-5,5,Giovanni's Gyarados,Rare Holo,Ken Sugimori,0.0,0.0,0.0,49.03,0.0,2023/09/13
+gym2-6,6,Giovanni's Machamp,Rare Holo,Ken Sugimori,0.0,0.0,0.0,29.42,0.0,2023/09/13
+gym2-7,7,Giovanni's Nidoking,Rare Holo,Ken Sugimori,0.0,0.0,0.0,35.9,0.0,2023/09/13
+gym2-8,8,Giovanni's Persian,Rare Holo,Ken Sugimori,0.0,0.0,0.0,13.7,0.0,2023/09/13
+gym2-9,9,Koga's Beedrill,Rare Holo,Ken Sugimori,0.0,0.0,0.0,16.16,0.0,2023/09/13
+gym2-10,10,Koga's Ditto,Rare Holo,Ken Sugimori,0.0,0.0,0.0,24.58,0.0,2023/09/13
+gym2-11,11,Lt. Surge's Raichu,Rare Holo,Ken Sugimori,0.0,0.0,0.0,32.74,0.0,2023/09/13
+gym2-12,12,Misty's Golduck,Rare Holo,Ken Sugimori,0.0,0.0,0.0,26.63,0.0,2023/09/13
+gym2-13,13,Misty's Gyarados,Rare Holo,Ken Sugimori,0.0,0.0,0.0,57.11,0.0,2023/09/13
+gym2-14,14,Rocket's Mewtwo,Rare Holo,Shin-ichi Yoshida,0.0,0.0,0.0,109.8,0.0,2023/09/13
+gym2-15,15,Rocket's Zapdos,Rare Holo,Shin-ichi Yoshida,0.0,0.0,0.0,29.2,0.0,2023/09/13
+gym2-16,16,Sabrina's Alakazam,Rare Holo,Ken Sugimori,0.0,0.0,0.0,15.92,0.0,2023/09/13
+gym2-17,17,Blaine,Rare Holo,Ken Sugimori,0.0,0.0,0.0,18.2,0.0,2023/09/13
+gym2-18,18,Giovanni,Rare Holo,Ken Sugimori,0.0,0.0,0.0,22.75,0.0,2023/09/13
+gym2-19,19,Koga,Rare Holo,Ken Sugimori,0.0,0.0,0.0,28.64,0.0,2023/09/13
+gym2-20,20,Sabrina,Rare Holo,Ken Sugimori,0.0,0.0,0.0,26.59,0.0,2023/09/13
+gym2-21,21,Blaine's Ninetales,Rare,Ken Sugimori,0.0,0.0,0.0,8.1,0.0,2023/09/13
+gym2-22,22,Brock's Dugtrio,Rare,Ken Sugimori,0.0,0.0,0.0,7.39,0.0,2023/09/13
+gym2-23,23,Giovanni's Nidoqueen,Rare,Ken Sugimori,0.0,0.0,0.0,9.09,0.0,2023/09/13
+gym2-24,24,Giovanni's Pinsir,Rare,Ken Sugimori,0.0,0.0,0.0,6.06,0.0,2023/09/13
+gym2-25,25,Koga's Arbok,Rare,Ken Sugimori,0.0,0.0,0.0,6.32,0.0,2023/09/13
+gym2-26,26,Koga's Muk,Rare,Ken Sugimori,0.0,0.0,0.0,6.9,0.0,2023/09/13
+gym2-27,27,Koga's Pidgeotto,Rare,Ken Sugimori,0.0,0.0,0.0,6.96,0.0,2023/09/13
+gym2-28,28,Lt. Surge's Jolteon,Rare,Ken Sugimori,0.0,0.0,0.0,10.66,0.0,2023/09/13
+gym2-29,29,Sabrina's Gengar,Rare,Ken Sugimori,0.0,0.0,0.0,31.08,0.0,2023/09/13
+gym2-30,30,Sabrina's Golduck,Rare,Ken Sugimori,0.0,0.0,0.0,7.96,0.0,2023/09/13
+gym2-31,31,Blaine's Charmeleon,Uncommon,Ken Sugimori,0.0,0.0,0.0,4.22,0.0,2023/09/13
+gym2-32,32,Blaine's Dodrio,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.25,0.0,2023/09/13
+gym2-33,33,Blaine's Rapidash,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.24,0.0,2023/09/13
+gym2-34,34,Brock's Graveler,Uncommon,Atsuko Nishida,0.0,0.0,0.0,2.59,0.0,2023/09/13
+gym2-35,35,Brock's Primeape,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.62,0.0,2023/09/13
+gym2-36,36,Brock's Sandslash,Uncommon,Atsuko Nishida,0.0,0.0,0.0,2.97,0.0,2023/09/13
+gym2-37,37,Brock's Vulpix,Uncommon,Ken Sugimori,0.0,0.0,0.0,3.31,0.0,2023/09/13
+gym2-38,38,Erika's Bellsprout,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.67,0.0,2023/09/13
+gym2-39,39,Erika's Bulbasaur,Uncommon,Ken Sugimori,0.0,0.0,0.0,8.64,0.0,2023/09/13
+gym2-40,40,Erika's Clefairy,Uncommon,Atsuko Nishida,0.0,0.0,0.0,3.01,0.0,2023/09/13
+gym2-41,41,Erika's Ivysaur,Uncommon,Ken Sugimori,0.0,0.0,0.0,5.15,0.0,2023/09/13
+gym2-42,42,Giovanni's Machoke,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.71,0.0,2023/09/13
+gym2-43,43,Giovanni's Meowth,Uncommon,Atsuko Nishida,0.0,0.0,0.0,2.43,0.0,2023/09/13
+gym2-44,44,Giovanni's Nidorina,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.36,0.0,2023/09/13
+gym2-45,45,Giovanni's Nidorino,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.88,0.0,2023/09/13
+gym2-46,46,Koga's Golbat,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.07,0.0,2023/09/13
+gym2-47,47,Koga's Kakuna,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.32,0.0,2023/09/13
+gym2-48,48,Koga's Koffing,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.42,0.0,2023/09/13
+gym2-49,49,Koga's Pidgey,Uncommon,Atsuko Nishida,0.0,0.0,0.0,2.23,0.0,2023/09/13
+gym2-50,50,Koga's Weezing,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.5,0.0,2023/09/13
+gym2-51,51,Lt. Surge's Eevee,Uncommon,Ken Sugimori,0.0,0.0,0.0,5.81,0.0,2023/09/13
+gym2-52,52,Lt. Surge's Electrode,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.98,0.0,2023/09/13
+gym2-53,53,Lt. Surge's Raticate,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.95,0.0,2023/09/13
+gym2-54,54,Misty's Dewgong,Uncommon,Ken Sugimori,0.0,0.0,0.0,3.09,0.0,2023/09/13
+gym2-55,55,Sabrina's Haunter,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.44,0.0,2023/09/13
+gym2-56,56,Sabrina's Hypno,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.84,0.0,2023/09/13
+gym2-57,57,Sabrina's Jynx,Uncommon,Atsuko Nishida,0.0,0.0,0.0,2.32,0.0,2023/09/13
+gym2-58,58,Sabrina's Kadabra,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.23,0.0,2023/09/13
+gym2-59,59,Sabrina's Mr. Mime,Uncommon,Ken Sugimori,0.0,0.0,0.0,1.86,0.0,2023/09/13
+gym2-60,60,Blaine's Charmander,Common,Ken Sugimori,0.0,0.0,0.0,3.65,0.0,2023/09/13
+gym2-61,61,Blaine's Doduo,Common,Ken Sugimori,0.0,0.0,0.0,0.8,0.0,2023/09/13
+gym2-62,62,Blaine's Growlithe,Common,Ken Sugimori,0.0,0.0,0.0,2.31,0.0,2023/09/13
+gym2-63,63,Blaine's Mankey,Common,Atsuko Nishida,0.0,0.0,0.0,0.95,0.0,2023/09/13
+gym2-64,64,Blaine's Ponyta,Common,Ken Sugimori,0.0,0.0,0.0,0.73,0.0,2023/09/13
+gym2-65,65,Blaine's Rhyhorn,Common,Ken Sugimori,0.0,0.0,0.0,0.91,0.0,2023/09/13
+gym2-66,66,Blaine's Vulpix,Common,Ken Sugimori,0.0,0.0,0.0,1.13,0.0,2023/09/13
+gym2-67,67,Brock's Diglett,Common,Ken Sugimori,0.0,0.0,0.0,1.11,0.0,2023/09/13
+gym2-68,68,Brock's Geodude,Common,Ken Sugimori,0.0,0.0,0.0,0.76,0.0,2023/09/13
+gym2-69,69,Erika's Jigglypuff,Common,Ken Sugimori,0.0,0.0,0.0,0.85,0.0,2023/09/13
+gym2-70,70,Erika's Oddish,Common,Ken Sugimori,0.0,0.0,0.0,0.77,0.0,2023/09/13
+gym2-71,71,Erika's Paras,Common,Ken Sugimori,0.0,0.0,0.0,0.95,0.0,2023/09/13
+gym2-72,72,Giovanni's Machop,Common,Ken Sugimori,0.0,0.0,0.0,0.71,0.0,2023/09/13
+gym2-73,73,Giovanni's Magikarp,Common,Ken Sugimori,0.0,0.0,0.0,1.51,0.0,2023/09/13
+gym2-74,74,Giovanni's Meowth,Common,Ken Sugimori,0.0,0.0,0.0,0.74,0.0,2023/09/13
+gym2-75,75,Giovanni's Nidoran ♀,Common,Ken Sugimori,0.0,0.0,0.0,0.79,0.0,2023/09/13
+gym2-76,76,Giovanni's Nidoran ♂,Common,Ken Sugimori,0.0,0.0,0.0,0.58,0.0,2023/09/13
+gym2-77,77,Koga's Ekans,Common,Ken Sugimori,0.0,0.0,0.0,0.83,0.0,2023/09/13
+gym2-78,78,Koga's Grimer,Common,Ken Sugimori,0.0,0.0,0.0,0.73,0.0,2023/09/13
+gym2-79,79,Koga's Koffing,Common,Ken Sugimori,0.0,0.0,0.0,0.57,0.0,2023/09/13
+gym2-80,80,Koga's Pidgey,Common,Ken Sugimori,0.0,0.0,0.0,0.52,0.0,2023/09/13
+gym2-81,81,Koga's Tangela,Common,Atsuko Nishida,0.0,0.0,0.0,0.7,0.0,2023/09/13
+gym2-82,82,Koga's Weedle,Common,Ken Sugimori,0.0,0.0,0.0,0.74,0.0,2023/09/13
+gym2-83,83,Koga's Zubat,Common,Ken Sugimori,0.0,0.0,0.0,0.74,0.0,2023/09/13
+gym2-84,84,Lt. Surge's Pikachu,Common,Atsuko Nishida,0.0,0.0,0.0,4.22,0.0,2023/09/13
+gym2-85,85,Lt. Surge's Rattata,Common,Atsuko Nishida,0.0,0.0,0.0,0.69,0.0,2023/09/13
+gym2-86,86,Lt. Surge's Voltorb,Common,Atsuko Nishida,0.0,0.0,0.0,0.85,0.0,2023/09/13
+gym2-87,87,Misty's Horsea,Common,Ken Sugimori,0.0,0.0,0.0,1.12,0.0,2023/09/13
+gym2-88,88,Misty's Magikarp,Common,Ken Sugimori,0.0,0.0,0.0,2.13,0.0,2023/09/13
+gym2-89,89,Misty's Poliwag,Common,Ken Sugimori,0.0,0.0,0.0,0.93,0.0,2023/09/13
+gym2-90,90,Misty's Psyduck,Common,Ken Sugimori,0.0,0.0,0.0,1.99,0.0,2023/09/13
+gym2-91,91,Misty's Seel,Common,Ken Sugimori,0.0,0.0,0.0,1.02,0.0,2023/09/13
+gym2-92,92,Misty's Staryu,Common,Ken Sugimori,0.0,0.0,0.0,1.06,0.0,2023/09/13
+gym2-93,93,Sabrina's Abra,Common,Ken Sugimori,0.0,0.0,0.0,0.69,0.0,2023/09/13
+gym2-94,94,Sabrina's Abra,Common,Ken Sugimori,0.0,0.0,0.0,1.04,0.0,2023/09/13
+gym2-95,95,Sabrina's Drowzee,Common,Ken Sugimori,0.0,0.0,0.0,0.52,0.0,2023/09/13
+gym2-96,96,Sabrina's Gastly,Common,Ken Sugimori,0.0,0.0,0.0,1.1,0.0,2023/09/13
+gym2-97,97,Sabrina's Gastly,Common,Atsuko Nishida,0.0,0.0,0.0,1.49,0.0,2023/09/13
+gym2-98,98,Sabrina's Porygon,Common,Ken Sugimori,0.0,0.0,0.0,0.66,0.0,2023/09/13
+gym2-99,99,Sabrina's Psyduck,Common,Ken Sugimori,0.0,0.0,0.0,1.54,0.0,2023/09/13
+gym2-100,100,Blaine,Rare,Ken Sugimori,0.0,0.0,0.0,5.3,0.0,2023/09/13
+gym2-101,101,Brock's Protection,Rare,Ken Sugimori,0.0,0.0,0.0,8.36,0.0,2023/09/13
+gym2-102,102,Chaos Gym,Rare,Keiji Kinebuchi,0.0,0.0,0.0,5.49,0.0,2023/09/13
+gym2-103,103,Erika's Kindness,Rare,Ken Sugimori,0.0,0.0,0.0,9.98,0.0,2023/09/13
+gym2-104,104,Giovanni,Rare,Ken Sugimori,0.0,0.0,0.0,5.35,0.0,2023/09/13
+gym2-105,105,Giovanni's Last Resort,Rare,Ken Sugimori,0.0,0.0,0.0,6.78,0.0,2023/09/13
+gym2-106,106,Koga,Rare,Ken Sugimori,0.0,0.0,0.0,5.14,0.0,2023/09/13
+gym2-107,107,Lt. Surge's Secret Plan,Rare,Ken Sugimori,0.0,0.0,0.0,3.03,0.0,2023/09/13
+gym2-108,108,Misty's Wish,Rare,Ken Sugimori,0.0,0.0,0.0,10.47,0.0,2023/09/13
+gym2-109,109,Resistance Gym,Rare,Keiji Kinebuchi,0.0,0.0,0.0,5.07,0.0,2023/09/13
+gym2-110,110,Sabrina,Rare,Ken Sugimori,0.0,0.0,0.0,4.67,0.0,2023/09/13
+gym2-111,111,Blaine's Quiz #2,Uncommon,Ken Sugimori,0.0,0.0,0.0,4.71,0.0,2023/09/13
+gym2-112,112,Blaine's Quiz #3,Uncommon,Ken Sugimori,0.0,0.0,0.0,3.44,0.0,2023/09/13
+gym2-114,114,Fuchsia City Gym,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,1.27,0.0,2023/09/13
+gym2-115,115,Koga's Ninja Trick,Uncommon,Sumiyoshi Kizuki,0.0,0.0,0.0,3.13,0.0,2023/09/13
+gym2-116,116,Master Ball,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,2.24,0.0,2023/09/13
+gym2-117,117,Max Revive,Uncommon,Hikaru Koike,0.0,0.0,0.0,1.51,0.0,2023/09/13
+gym2-118,118,Misty's Tears,Uncommon,Ken Sugimori,0.0,0.0,0.0,15.6,0.0,2023/09/13
+gym2-119,119,Rocket's Minefield Gym,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,1.37,0.0,2023/09/13
+gym2-120,120,Rocket's Secret Experiment,Uncommon,Ken Sugimori,0.0,0.0,0.0,4.81,0.0,2023/09/13
+gym2-121,121,Sabrina's Psychic Control,Uncommon,Ken Sugimori,0.0,0.0,0.0,2.41,0.0,2023/09/13
+gym2-122,122,Saffron City Gym,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,0.9,0.0,2023/09/13
+gym2-123,123,Viridian City Gym,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,1.45,0.0,2023/09/13
+gym2-124,124,Fervor,Common,Ken Sugimori,0.0,0.0,0.0,0.64,0.0,2023/09/13
+gym2-125,125,Transparent Walls,Common,Keiji Kinebuchi,0.0,0.0,0.0,1.1,0.0,2023/09/13
+gym2-126,126,Warp Point,Common,Keiji Kinebuchi,0.0,0.0,0.0,0.98,0.0,2023/09/13
+gym2-127,127,Fighting Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.7,0.0,2023/09/13
+gym2-128,128,Fire Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.45,0.0,2023/09/13
+gym2-129,129,Grass Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.4,0.0,2023/09/13
+gym2-130,130,Lightning Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.97,0.0,2023/09/13
+gym2-131,131,Psychic Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.26,0.0,2023/09/13
+gym2-132,132,Water Energy,,Keiji Kinebuchi,0.0,0.0,0.0,0.78,0.0,2023/09/13

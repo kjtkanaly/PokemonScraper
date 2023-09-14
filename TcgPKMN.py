@@ -2,33 +2,34 @@ import csv
 from pokemontcgsdk import Card
 from pokemontcgsdk import Set
 
-def GetCardsInSet(setID):
 
+def GetCardsInSet(setID):
     cards = Card.where(q=("set.id:" + setID))
     infoList = []
 
     for card in cards:
-        cardPrices = card.tcgplayer.prices
+        tcgPrices = card.tcgplayer.prices
+        cardMarketPrices = card.cardmarket.prices
 
-        if cardPrices is None:
+        if tcgPrices is None:
             continue
 
-        cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
-                    CheckIfPokeCardHasPrice(cardPrices.normal), 
-                    CheckIfPokeCardHasPrice(cardPrices.holofoil),
-                    CheckIfPokeCardHasPrice(cardPrices.reverseHolofoil), 
-                    CheckIfPokeCardHasPrice(cardPrices.firstEditionHolofoil),
-                    CheckIfPokeCardHasPrice(cardPrices.firstEditionNormal),
-                    card.tcgplayer.updatedAt]
+        cardInfo = [card.id, card.number, card.name, card.rarity, card.artist,
+                    GetCardMarketPrice(tcgPrices.normal),
+                    GetCardMarketPrice(tcgPrices.holofoil),
+                    GetCardMarketPrice(tcgPrices.reverseHolofoil), 
+                    cardMarketPrices.averageSellPrice,
+                    cardMarketPrices.reverseHoloSell,
+                    card.cardmarket.updatedAt]
         
         infoList.append(cardInfo)
     
     return infoList
 
 
-def CheckIfPokeCardHasPrice(cardPrice):
+def GetCardMarketPrice(cardPrice):
     if cardPrice is None:
-        return None
+        return 0.0
     else:
         return cardPrice.market
    
@@ -65,3 +66,23 @@ def ReadInSetCSV(setsListCSV):
             setsList.append(row)
     
     return setsList[1:]
+
+
+def GetCardPriceInfo(cardID):
+    card = Card.find(cardID)
+
+    print("TCG:")
+
+    prices = card.tcgplayer.prices
+
+    for attr, value in prices.__dict__.items():
+        print(attr, value)
+    
+    print("\nCard Market:")
+
+    prices = card.cardmarket.prices
+
+    for attr, value in prices.__dict__.items():
+        print(attr, value)
+
+    return card.tcgplayer.prices
