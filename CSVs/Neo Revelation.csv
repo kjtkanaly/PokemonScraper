@@ -1,0 +1,67 @@
+ID,Set Number,Card Name,Rarity,Artist,TCG Normal,TCG Holo,TCG Reverse,Normal Price($),Reverse Holo Price ($),Updated At (YYYY/MM/DD)
+neo3-1,1,Ampharos,Rare Holo,Toshinao Aoki,0.0,0.0,0.0,17.75,0.0,2023/09/14
+neo3-2,2,Blissey,Rare Holo,Yuka Morii,0.0,0.0,0.0,17.11,0.0,2023/09/14
+neo3-3,3,Celebi,Rare Holo,Hironobu Yoshida,0.0,0.0,0.0,19.85,0.0,2023/09/14
+neo3-4,4,Crobat,Rare Holo,Shin-ichi Yoshida,0.0,0.0,0.0,19.05,0.0,2023/09/14
+neo3-5,5,Delibird,Rare Holo,Tomokazu Komiya,0.0,0.0,0.0,27.25,0.0,2023/09/14
+neo3-6,6,Entei,Rare Holo,Ken Sugimori,0.0,0.0,0.0,92.21,0.0,2023/09/14
+neo3-7,7,Ho-oh,Rare Holo,Kimiya Masago,0.0,0.0,0.0,89.85,0.0,2023/09/14
+neo3-8,8,Houndoom,Rare Holo,Mitsuhiro Arita,0.0,0.0,0.0,37.42,0.0,2023/09/14
+neo3-9,9,Jumpluff,Rare Holo,Kagemaru Himeno,0.0,0.0,0.0,14.15,0.0,2023/09/14
+neo3-10,10,Magneton,Rare Holo,"""Big Mama"" Tagawa, CR CG gangs",0.0,0.0,0.0,10.82,0.0,2023/09/14
+neo3-11,11,Misdreavus,Rare Holo,Ken Sugimori,0.0,0.0,0.0,37.59,0.0,2023/09/14
+neo3-12,12,Porygon2,Rare Holo,Keiji Kinebuchi,0.0,0.0,0.0,14.32,0.0,2023/09/14
+neo3-13,13,Raikou,Rare Holo,Ken Sugimori,0.0,0.0,0.0,34.33,0.0,2023/09/14
+neo3-14,14,Suicune,Rare Holo,Ken Sugimori,0.0,0.0,0.0,43.94,0.0,2023/09/14
+neo3-15,15,Aerodactyl,Rare,Shin-ichi Yoshida,0.0,0.0,0.0,5.21,0.0,2023/09/14
+neo3-16,16,Celebi,Rare,Sumiyoshi Kizuki,0.0,0.0,0.0,5.76,0.0,2023/09/14
+neo3-17,17,Entei,Rare,Naoyo Kimura,0.0,0.0,0.0,5.77,0.0,2023/09/14
+neo3-18,18,Ho-oh,Rare,Aya Kusube,0.0,0.0,0.0,10.43,0.0,2023/09/14
+neo3-19,19,Kingdra,Rare,Mitsuhiro Arita,0.0,0.0,0.0,5.3,0.0,2023/09/14
+neo3-20,20,Lugia,Rare,Aya Kusube,0.0,0.0,0.0,11.54,0.0,2023/09/14
+neo3-21,21,Raichu,Rare,Masako Yamashita,0.0,0.0,0.0,3.77,0.0,2023/09/14
+neo3-22,22,Raikou,Rare,Naoyo Kimura,0.0,0.0,0.0,6.14,0.0,2023/09/14
+neo3-23,23,Skarmory,Rare,Aya Kusube,0.0,0.0,0.0,4.76,0.0,2023/09/14
+neo3-24,24,Sneasel,Rare,Sumiyoshi Kizuki,0.0,0.0,0.0,3.22,0.0,2023/09/14
+neo3-25,25,Starmie,Rare,"Keita Komatsuya, CR CG gangs",0.0,0.0,0.0,2.41,0.0,2023/09/14
+neo3-26,26,Sudowoodo,Rare,Sumiyoshi Kizuki,0.0,0.0,0.0,3.24,0.0,2023/09/14
+neo3-27,27,Suicune,Rare,Naoyo Kimura,0.0,0.0,0.0,13.7,0.0,2023/09/14
+neo3-28,28,Flaaffy,Uncommon,Toshinao Aoki,0.0,0.0,0.0,0.8,0.0,2023/09/14
+neo3-29,29,Golbat,Uncommon,Masako Yamashita,0.0,0.0,0.0,0.79,0.0,2023/09/14
+neo3-30,30,Graveler,Uncommon,Yukiko Baba,0.0,0.0,0.0,1.2,0.0,2023/09/14
+neo3-31,31,Jynx,Uncommon,Tomokazu Komiya,0.0,0.0,0.0,0.75,0.0,2023/09/14
+neo3-32,32,Lanturn,Uncommon,Kagemaru Himeno,0.0,0.0,0.0,0.49,0.0,2023/09/14
+neo3-33,33,Magcargo,Uncommon,Shin-ichi Yoshida,0.0,0.0,0.0,0.71,0.0,2023/09/14
+neo3-34,34,Octillery,Uncommon,Tomokazu Komiya,0.0,0.0,0.0,1.24,0.0,2023/09/14
+neo3-35,35,Parasect,Uncommon,Atsuko Nishida,0.0,0.0,0.0,0.52,0.0,2023/09/14
+neo3-36,36,Piloswine,Uncommon,Atsuko Nishida,0.0,0.0,0.0,0.8,0.0,2023/09/14
+neo3-37,37,Seaking,Uncommon,Miki Tanaka,0.0,0.0,0.0,0.68,0.0,2023/09/14
+neo3-38,38,Stantler,Uncommon,Yukiko Baba,0.0,0.0,0.0,0.75,0.0,2023/09/14
+neo3-39,39,Unown [B],Uncommon,CR CG gangs,0.0,0.0,0.0,0.73,0.0,2023/09/14
+neo3-40,40,Unown [Y],Uncommon,CR CG gangs,0.0,0.0,0.0,0.62,0.0,2023/09/14
+neo3-41,41,Aipom,Common,Sumiyoshi Kizuki,0.0,0.0,0.0,0.38,0.0,2023/09/14
+neo3-42,42,Chinchou,Common,Atsuko Nishida,0.0,0.0,0.0,0.35,0.0,2023/09/14
+neo3-43,43,Farfetch'd,Common,Miki Tanaka,0.0,0.0,0.0,0.27,0.0,2023/09/14
+neo3-44,44,Geodude,Common,Masako Yamashita,0.0,0.0,0.0,0.22,0.0,2023/09/14
+neo3-45,45,Goldeen,Common,Yuka Morii,0.0,0.0,0.0,0.34,0.0,2023/09/14
+neo3-46,46,Murkrow,Common,Hironobu Yoshida,0.0,0.0,0.0,0.25,0.0,2023/09/14
+neo3-47,47,Paras,Common,Kagemaru Himeno,0.0,0.0,0.0,0.2,0.0,2023/09/14
+neo3-48,48,Quagsire,Common,Yuka Morii,0.0,0.0,0.0,0.43,0.0,2023/09/14
+neo3-49,49,Qwilfish,Common,Sumiyoshi Kizuki,0.0,0.0,0.0,0.3,0.0,2023/09/14
+neo3-50,50,Remoraid,Common,Miki Tanaka,0.0,0.0,0.0,0.34,0.0,2023/09/14
+neo3-51,51,Shuckle,Common,Yuka Morii,0.0,0.0,0.0,0.46,0.0,2023/09/14
+neo3-52,52,Skiploom,Common,Mitsuhiro Arita,0.0,0.0,0.0,0.3,0.0,2023/09/14
+neo3-53,53,Slugma,Common,Kagemaru Himeno,0.0,0.0,0.0,0.3,0.0,2023/09/14
+neo3-54,54,Smoochum,Common,Atsuko Nishida,0.0,0.0,0.0,0.29,0.0,2023/09/14
+neo3-55,55,Snubbull,Common,Tomokazu Komiya,0.0,0.0,0.0,0.36,0.0,2023/09/14
+neo3-56,56,Staryu,Common,Mitsuhiro Arita,0.0,0.0,0.0,0.36,0.0,2023/09/14
+neo3-57,57,Swinub,Common,Miki Tanaka,0.0,0.0,0.0,0.26,0.0,2023/09/14
+neo3-58,58,Unown [K],Common,CR CG gangs,0.0,0.0,0.0,0.42,0.0,2023/09/14
+neo3-59,59,Zubat,Common,Yukiko Baba,0.0,0.0,0.0,0.24,0.0,2023/09/14
+neo3-60,60,Balloon Berry,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,0.52,0.0,2023/09/14
+neo3-61,61,Healing Field,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,0.45,0.0,2023/09/14
+neo3-62,62,Pokémon Breeder Fields,Uncommon,Ken Sugimori,0.0,0.0,0.0,0.69,0.0,2023/09/14
+neo3-63,63,Rocket's Hideout,Uncommon,Keiji Kinebuchi,0.0,0.0,0.0,0.47,0.0,2023/09/14
+neo3-64,64,Old Rod,Common,Keiji Kinebuchi,0.0,0.0,0.0,0.23,0.0,2023/09/14
+neo3-65,65,Shining Gyarados,Rare Shining,Ken Sugimori,0.0,0.0,0.0,336.8,0.0,2023/09/14
+neo3-66,66,Shining Magikarp,Rare Shining,Ken Sugimori,0.0,0.0,0.0,98.2,0.0,2023/09/14

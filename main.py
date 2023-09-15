@@ -35,7 +35,6 @@ def GetPriceOfCard(cardID):
     cardPriceInfo = TP.GetCardPriceInfo(cardID)
     print(cardPriceInfo)
 
-
 def main():
     pokeAPIkey = config.getPokeAPIkey()
     RestClient.configure(pokeAPIkey)
