@@ -1,68 +1,58 @@
-import csv
-import numpy as np
-from pokemontcgsdk import Card
 from pokemontcgsdk import RestClient
+import TcgPKMN as TP
 import config
 
+def LoopOverEachSet(setsList):
+    for set in setsList:
+        setName = set[0]
+        setID = set[1]
+        setFileName = "CSVs/" + setName + ".csv"
 
-def getCardsInSet(setID, fileName):
+        GetSetCardsInfo(setID, setFileName)
 
-    cards = Card.where(q=("set.id:" + setID))
-
-    for card in cards:
-        cardPrices = card.tcgplayer.prices
-
-        cardInfo = [card.id, card.number, card.name, card.rarity, card.artist, 
-                    checkIfPokeCardHasPrice(cardPrices.normal), 
-                    checkIfPokeCardHasPrice(cardPrices.holofoil),
-                    checkIfPokeCardHasPrice(cardPrices.reverseHolofoil), 
-                    checkIfPokeCardHasPrice(cardPrices.firstEditionHolofoil),
-                    checkIfPokeCardHasPrice(cardPrices.firstEditionNormal),
-                    card.tcgplayer.updatedAt]
-
-        appendPokeCSV(fileName, cardInfo)
-
-
-def checkIfPokeCardHasPrice(cardPrice):
-    if not(cardPrice == None):
-        return cardPrice.market
-    else:
-        return None
-
-
-def initPokeCSV(fileName, column):
-    with open(fileName, 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(column)
-
-
-def appendPokeCSV(fileName, cardInfo):
-    with open(fileName, 'a', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(cardInfo)
-
-
-def main():
-
-    stdCSVFile = "CrownZenith - STD Set.csv"
-    ggCSVFile = "CrownZenith - GG Set.csv"
+def GetSetCardsInfo(setID, setCSVFile):
     csvColumn = ["ID", "Set Number", "Card Name", "Rarity", "Artist",
-                 "Normal Price($)", "Holo Foil Price ($)", "Reverse Holo Price ($)", 
-                 "First Edition Holo Price ($)", "First Edition Normal Price ($)",
+                 "TCG Normal", "TCG Holo", "TCG Reverse",
+                 "Normal Price($)", "Reverse Holo Price ($)", 
                  "Updated At (YYYY/MM/DD)"]
 
-    initPokeCSV(stdCSVFile, csvColumn)
-    initPokeCSV(ggCSVFile, csvColumn)
+    TP.InitPokeCSV(setCSVFile, csvColumn)
+    infoList = TP.GetCardsInSet(setID)
+    TP.AppendPokeCSV(setCSVFile, infoList)
 
+def GetSetIDs(idsFileName):
+    setsInfo = TP.GetAllSetIDs()
+
+    csvColumn = ["Name", "ID"] 
+    TP.InitPokeCSV(idsFileName, csvColumn)
+    TP.AppendPokeCSV(idsFileName, setsInfo)
+
+def GetSetIDsFromCSV(setsListCSV):
+    # Get List of sets and their ids
+    return TP.ReadInSetCSV(setsListCSV)
+
+def GetPriceOfCard(cardID):
+    cardPriceInfo = TP.GetCardPriceInfo(cardID)
+    print(cardPriceInfo)
+
+def main():
     pokeAPIkey = config.getPokeAPIkey()
     RestClient.configure(pokeAPIkey)
 
-    stdId = "swsh12pt5"
-    ggId = "swsh12pt5gg"
+    stdCSVFile = "Jungle" # "CrownZenith - STD Set.csv"
+    stdId = "base2" # "swsh12pt5"
+    # GetSetCardsInfo(stdId, stdCSVFile)
 
-    getCardsInSet(stdId, stdCSVFile)
-    getCardsInSet(ggId, ggCSVFile)
+    idsFileName = "All Pokemon Set IDs.csv"
+    # GetSetIDs(idsFileName)
 
+    setsListCSV = "Sets we have.csv"
+    setsList = GetSetIDsFromCSV(setsListCSV)
+    LoopOverEachSet(setsList)
+
+    # Playing With Prices
+    cardID = "base2-56"
+    # GetPriceOfCard(cardID)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,146 @@
+ID,Set Number,Card Name,Rarity,Artist,TCG Normal,TCG Holo,TCG Reverse,Normal Price($),Reverse Holo Price ($),Updated At (YYYY/MM/DD)
+ex10-1,1,Ampharos,Rare Holo,Kyoko Umemoto,0.0,16.34,20.23,4.41,2.99,2023/09/14
+ex10-2,2,Ariados,Rare Holo,Mitsuhiro Arita,0.0,6.36,13.94,9.1,10.05,2023/09/14
+ex10-3,3,Bellossom,Rare Holo,Kouki Saitou,0.0,8.04,8.24,4.16,5.0,2023/09/14
+ex10-4,4,Feraligatr,Rare Holo,Masakazu Fukuda,0.0,30.0,46.24,3.71,5.0,2023/09/14
+ex10-5,5,Flareon,Rare Holo,Naoyo Kimura,0.0,43.32,41.27,17.85,34.95,2023/09/14
+ex10-6,6,Forretress,Rare Holo,Aya Kusube,0.0,6.08,10.16,1.97,0.0,2023/09/14
+ex10-7,7,Houndoom,Rare Holo,Midori Harada,0.0,23.82,22.7,6.95,3.0,2023/09/14
+ex10-8,8,Jolteon,Rare Holo,Mitsuhiro Arita,0.0,21.78,26.64,18.35,0.0,2023/09/14
+ex10-9,9,Meganium,Rare Holo,Atsuko Nishida,0.0,21.89,10.82,2.02,0.0,2023/09/14
+ex10-10,10,Octillery,Rare Holo,Naoyo Kimura,0.0,4.34,5.5,1.65,1.99,2023/09/14
+ex10-11,11,Poliwrath,Rare Holo,Hajime Kusajima,0.0,17.21,8.95,9.21,2.99,2023/09/14
+ex10-12,12,Porygon2,Rare Holo,Kagemaru Himeno,0.0,9.75,9.79,2.76,1.7,2023/09/14
+ex10-13,13,Slowbro,Rare Holo,Midori Harada,0.0,14.22,13.99,2.79,13.0,2023/09/14
+ex10-14,14,Slowking,Rare Holo,Midori Harada,0.0,23.36,19.94,12.5,7.9,2023/09/14
+ex10-15,15,Sudowoodo,Rare Holo,Tomokazu Komiya,0.0,14.51,10.99,5.62,8.0,2023/09/14
+ex10-16,16,Sunflora,Rare Holo,Sumiyoshi Kizuki,0.0,8.35,6.92,8.31,22.99,2023/09/14
+ex10-17,17,Typhlosion,Rare Holo,Hajime Kusajima,0.0,40.94,48.64,3.72,12.5,2023/09/14
+ex10-18,18,Ursaring,Rare Holo,Atsuko Nishida,0.0,8.95,14.03,0.0,4.45,2023/09/14
+ex10-19,19,Vaporeon,Rare Holo,Atsuko Nishida,0.0,29.43,30.83,12.5,25.0,2023/09/14
+ex10-20,20,Chansey,Rare,Yukiko Baba,1.9,0.0,22.35,0.9,0.0,2023/09/14
+ex10-21,21,Cleffa,Rare,Yuka Morii,4.31,0.0,8.43,0.85,2.95,2023/09/14
+ex10-22,22,Electabuzz,Rare,Mitsuhiro Arita,1.06,0.0,11.57,0.6,0.0,2023/09/14
+ex10-23,23,Elekid,Rare,Yuka Morii,2.52,0.0,8.99,0.97,4.1,2023/09/14
+ex10-24,24,Hitmonchan,Rare,Hisao Nakamura,1.37,0.0,8.09,0.71,0.0,2023/09/14
+ex10-25,25,Hitmonlee,Rare,Hisao Nakamura,2.44,0.0,13.02,1.15,3.19,2023/09/14
+ex10-26,26,Hitmontop,Rare,Hisao Nakamura,1.02,0.0,16.22,0.82,0.0,2023/09/14
+ex10-27,27,Ho-Oh,Rare,Kouki Saitou,3.68,0.0,33.08,2.08,6.75,2023/09/14
+ex10-28,28,Jynx,Rare,Yukiko Baba,0.89,0.0,5.61,0.52,0.0,2023/09/14
+ex10-29,29,Lugia,Rare,Kouki Saitou,6.92,0.0,44.99,2.09,5.5,2023/09/14
+ex10-30,30,Murkrow,Rare,Kouki Saitou,1.17,0.0,8.66,0.5,4.0,2023/09/14
+ex10-31,31,Smoochum,Rare,Yuka Morii,2.61,0.0,6.96,1.36,10.0,2023/09/14
+ex10-32,32,Stantler,Rare,Atsuko Nishida,0.82,0.0,7.64,0.56,3.63,2023/09/14
+ex10-33,33,Tyrogue,Rare,Yuka Morii,1.72,0.0,7.42,0.91,1.99,2023/09/14
+ex10-34,34,Aipom,Uncommon,Sachiko Adachi,0.88,0.0,8.45,0.48,7.5,2023/09/14
+ex10-35,35,Bayleef,Uncommon,Atsuko Nishida,0.76,0.0,9.91,0.28,0.0,2023/09/14
+ex10-36,36,Clefable,Uncommon,Midori Harada,0.72,0.0,11.48,0.7,0.0,2023/09/14
+ex10-37,37,Corsola,Uncommon,Kagemaru Himeno,0.81,0.0,5.71,1.74,5.95,2023/09/14
+ex10-38,38,Croconaw,Uncommon,Masakazu Fukuda,0.68,0.0,10.32,0.28,0.0,2023/09/14
+ex10-39,39,Granbull,Uncommon,Midori Harada,0.45,0.0,5.99,0.34,10.0,2023/09/14
+ex10-40,40,Lanturn,Uncommon,Hajime Kusajima,0.68,0.0,4.98,0.69,9.0,2023/09/14
+ex10-41,41,Magcargo,Uncommon,Tomokazu Komiya,0.74,0.0,7.42,1.07,1.99,2023/09/14
+ex10-42,42,Miltank,Uncommon,Tomokazu Komiya,0.97,0.0,12.37,0.1,0.2,2023/09/14
+ex10-43,43,Noctowl,Uncommon,Mitsuhiro Arita,0.53,0.0,9.89,0.25,0.0,2023/09/14
+ex10-44,44,Quagsire,Uncommon,Kagemaru Himeno,0.58,0.0,9.02,1.05,7.25,2023/09/14
+ex10-45,45,Quilava,Uncommon,Hajime Kusajima,1.08,0.0,22.85,0.29,0.0,2023/09/14
+ex10-46,46,Scyther,Uncommon,Hajime Kusajima,3.8,0.0,23.1,1.6,12.0,2023/09/14
+ex10-47,47,Shuckle,Uncommon,Miki Tanaka,0.69,0.0,7.25,1.62,1.25,2023/09/14
+ex10-48,48,Smeargle,Uncommon,Sumiyoshi Kizuki,0.52,0.0,9.88,0.32,0.0,2023/09/14
+ex10-49,49,Xatu,Uncommon,Masakazu Fukuda,0.47,0.0,6.1,0.24,0.0,2023/09/14
+ex10-50,50,Yanma,Uncommon,Kagemaru Himeno,0.64,0.0,3.68,0.54,2.38,2023/09/14
+ex10-51,51,Chikorita,Common,Atsuko Nishida,0.36,0.0,5.69,0.18,11.0,2023/09/14
+ex10-52,52,Chinchou,Common,Hajime Kusajima,0.37,0.0,3.58,0.22,0.0,2023/09/14
+ex10-53,53,Clefairy,Common,Midori Harada,0.38,0.0,6.0,0.2,0.0,2023/09/14
+ex10-54,54,Cyndaquil,Common,Hajime Kusajima,0.53,0.0,16.67,0.2,3.5,2023/09/14
+ex10-55,55,Eevee,Common,Miki Tanaka,2.3,0.0,20.91,1.17,8.13,2023/09/14
+ex10-56,56,Flaaffy,Common,Kyoko Umemoto,0.44,0.0,23.02,0.22,2.7,2023/09/14
+ex10-57,57,Gligar,Common,Mitsuhiro Arita,0.32,0.0,4.89,0.17,1.32,2023/09/14
+ex10-58,58,Gloom,Common,Kouki Saitou,0.53,0.0,5.5,0.47,2.39,2023/09/14
+ex10-59,59,Hoothoot,Common,Mitsuhiro Arita,0.36,0.0,4.29,0.14,10.0,2023/09/14
+ex10-60,60,Houndour,Common,Kagemaru Himeno,0.4,0.0,9.99,0.32,0.0,2023/09/14
+ex10-61,61,Larvitar,Common,Aya Kusube,0.27,0.0,4.88,0.19,5.99,2023/09/14
+ex10-62,62,Mareep,Common,Kyoko Umemoto,0.6,0.0,12.49,0.32,0.0,2023/09/14
+ex10-63,63,Natu,Common,Masakazu Fukuda,0.21,0.0,4.14,0.07,1.5,2023/09/14
+ex10-64,64,Oddish,Common,Kouki Saitou,0.42,0.0,9.49,0.17,0.0,2023/09/14
+ex10-65,65,Onix,Common,Yukiko Baba,0.38,0.0,8.79,0.16,2.04,2023/09/14
+ex10-66,66,Pineco,Common,Aya Kusube,0.3,0.0,4.89,0.28,0.0,2023/09/14
+ex10-67,67,Poliwag,Common,Kagemaru Himeno,0.51,0.0,4.26,0.29,4.5,2023/09/14
+ex10-68,68,Poliwhirl,Common,Miki Tanaka,0.42,0.0,10.12,0.37,0.0,2023/09/14
+ex10-69,69,Porygon,Common,Kagemaru Himeno,0.57,0.0,8.36,0.21,10.0,2023/09/14
+ex10-70,70,Pupitar,Common,Aya Kusube,0.24,0.0,6.63,0.2,0.0,2023/09/14
+ex10-71,71,Remoraid,Common,Sachiko Adachi,0.47,0.0,6.01,0.15,0.0,2023/09/14
+ex10-72,72,Slowpoke,Common,Midori Harada,0.53,0.0,11.02,0.11,3.11,2023/09/14
+ex10-73,73,Slugma,Common,Tomokazu Komiya,0.42,0.0,6.67,0.31,3.13,2023/09/14
+ex10-74,74,Snubbull,Common,Midori Harada,0.24,0.0,4.14,0.54,3.79,2023/09/14
+ex10-75,75,Spinarak,Common,Sachiko Adachi,0.38,0.0,5.85,0.22,0.69,2023/09/14
+ex10-76,76,Sunkern,Common,Sumiyoshi Kizuki,0.45,0.0,2.56,0.25,6.5,2023/09/14
+ex10-77,77,Teddiursa,Common,Naoyo Kimura,0.47,0.0,10.29,0.3,0.0,2023/09/14
+ex10-78,78,Totodile,Common,Masakazu Fukuda,0.55,0.0,7.99,0.41,6.01,2023/09/14
+ex10-79,79,Wooper,Common,Kagemaru Himeno,0.29,0.0,8.14,0.36,4.95,2023/09/14
+ex10-80,80,Curse Powder,Uncommon,Ryo Ueda,0.66,0.0,1.57,0.42,0.0,2023/09/14
+ex10-81,81,Energy Recycle System,Uncommon,Zu-Ka,0.75,0.0,2.45,0.57,0.0,2023/09/14
+ex10-82,82,Energy Removal 2,Uncommon,Keiji Kinebuchi,0.35,0.0,2.5,0.49,0.0,2023/09/14
+ex10-83,83,Energy Root,Uncommon,Ryo Ueda,0.96,0.0,7.48,0.21,1.99,2023/09/14
+ex10-84,84,Energy Switch,Uncommon,Ken Ikuji,0.52,0.0,2.32,0.51,1.45,2023/09/14
+ex10-85,85,Fluffy Berry,Uncommon,Ryo Ueda,0.72,0.0,4.74,0.18,0.3,2023/09/14
+ex10-86,86,Mary's Request,Uncommon,Ken Sugimori,2.07,0.0,14.14,0.92,2.48,2023/09/14
+ex10-87,87,Poké Ball,Uncommon,Shin-ichi Yoshikawa,0.54,0.0,5.43,0.66,4.5,2023/09/14
+ex10-88,88,Pokémon Reversal,Uncommon,Hiromichi Sugiyama,0.71,0.0,5.07,1.77,2.0,2023/09/14
+ex10-89,89,Professor Elm's Training Method,Uncommon,Ken Sugimori,0.73,0.0,7.47,0.4,3.0,2023/09/14
+ex10-90,90,Protective Orb,Uncommon,Ryo Ueda,0.49,0.0,1.9,0.18,0.0,2023/09/14
+ex10-91,91,Sitrus Berry,Uncommon,Ryo Ueda,0.53,0.0,2.71,0.5,0.0,2023/09/14
+ex10-92,92,Solid Rage,Uncommon,Ryo Ueda,0.71,0.0,4.82,0.81,0.0,2023/09/14
+ex10-93,93,Warp Point,Uncommon,Keiji Kinebuchi,0.66,0.0,7.15,0.37,0.0,2023/09/14
+ex10-94,94,Energy Search,Common,Kai Ishikawa,0.15,0.0,11.97,0.17,4.1,2023/09/14
+ex10-95,95,Potion,Common,Shin-ichi Yoshikawa,0.16,0.0,3.37,0.14,0.0,2023/09/14
+ex10-96,96,Darkness Energy,Rare,Milky Isobe,1.46,0.0,18.19,0.32,6.83,2023/09/14
+ex10-97,97,Metal Energy,Rare,Milky Isobe,1.08,0.0,7.72,1.08,10.0,2023/09/14
+ex10-98,98,Boost Energy,Uncommon,Shin-ichi Yoshikawa,0.77,0.0,3.78,0.0,6.0,2023/09/14
+ex10-99,99,Cyclone Energy,Uncommon,Shin-ichi Yoshikawa,0.52,0.0,4.63,0.91,7.98,2023/09/14
+ex10-100,100,Warp Energy,Uncommon,Shin-ichi Yoshikawa,0.83,0.0,7.98,0.7,10.2,2023/09/14
+ex10-101,101,Blissey ex,Rare Holo EX,Ryo Ueda,0.0,47.31,0.0,42.25,0.0,2023/09/14
+ex10-102,102,Espeon ex,Rare Holo EX,Ryo Ueda,0.0,366.29,0.0,24.97,0.0,2023/09/14
+ex10-103,103,Feraligatr ex,Rare Holo EX,Hikaru Koike,0.0,86.11,0.0,6.36,0.0,2023/09/14
+ex10-104,104,Ho-Oh ex,Rare Holo EX,Mitsuhiro Arita,0.0,43.86,0.0,25.0,0.0,2023/09/14
+ex10-105,105,Lugia ex,Rare Holo EX,Hikaru Koike,0.0,332.37,0.0,850.0,0.0,2023/09/14
+ex10-106,106,Meganium ex,Rare Holo EX,Ryo Ueda,0.0,34.13,0.0,5.99,0.0,2023/09/14
+ex10-107,107,Politoed ex,Rare Holo EX,Ryo Ueda,0.0,62.56,0.0,40.0,0.0,2023/09/14
+ex10-108,108,Scizor ex,Rare Holo EX,Mitsuhiro Arita,0.0,154.85,0.0,100.0,0.0,2023/09/14
+ex10-109,109,Steelix ex,Rare Holo EX,Ryo Ueda,0.0,58.91,0.0,84.95,0.0,2023/09/14
+ex10-110,110,Typhlosion ex,Rare Holo EX,Mitsuhiro Arita,0.0,56.96,0.0,7.23,0.0,2023/09/14
+ex10-111,111,Tyranitar ex,Rare Holo EX,Mitsuhiro Arita,0.0,249.99,0.0,71.63,0.0,2023/09/14
+ex10-112,112,Umbreon ex,Rare Holo EX,Ryo Ueda,0.0,298.0,0.0,44.33,0.0,2023/09/14
+ex10-113,113,Entei ★,Rare Holo Star,Masakazu Fukuda,0.0,232.49,0.0,216.98,0.0,2023/09/14
+ex10-114,114,Raikou ★,Rare Holo Star,Masakazu Fukuda,0.0,272.12,0.0,270.0,0.0,2023/09/14
+ex10-115,115,Suicune ★,Rare Holo Star,Masakazu Fukuda,0.0,238.65,0.0,247.83,0.0,2023/09/14
+ex10-116,116,Rocket's Persian ex,Rare Secret,Mitsuhiro Arita,0.0,65.66,0.0,11.63,0.0,2023/09/14
+ex10-117,117,Celebi ex,Rare Secret,Ryo Ueda,0.0,399.99,0.0,145.0,0.0,2023/09/14
+ex10-A,A,Unown,Rare,Shin-ichi Yoshikawa,0.0,27.49,0.0,8.0,0.0,2023/09/14
+ex10-B,B,Unown,Rare,Shin-ichi Yoshikawa,0.0,10.09,0.0,5.88,0.0,2023/09/14
+ex10-C,C,Unown,Rare,Shin-ichi Yoshikawa,0.0,10.99,0.0,6.34,0.0,2023/09/14
+ex10-D,D,Unown,Rare,Shin-ichi Yoshikawa,0.0,27.25,0.0,5.0,0.0,2023/09/14
+ex10-E,E,Unown,Rare,Shin-ichi Yoshikawa,0.0,15.74,0.0,0.0,0.0,2023/09/14
+ex10-F,F,Unown,Rare,Shin-ichi Yoshikawa,0.0,19.99,0.0,10.0,0.0,2023/09/14
+ex10-G,G,Unown,Rare,Shin-ichi Yoshikawa,0.0,10.78,0.0,5.0,0.0,2023/09/14
+ex10-H,H,Unown,Rare,Shin-ichi Yoshikawa,0.0,13.23,0.0,2.0,0.0,2023/09/14
+ex10-I,I,Unown,Rare,Nakaoka,0.0,29.99,0.0,6.0,0.0,2023/09/14
+ex10-J,J,Unown,Rare,Nakaoka,0.0,8.7,0.0,0.0,0.0,2023/09/14
+ex10-K,K,Unown,Rare,Nakaoka,0.0,17.62,0.0,7.99,0.0,2023/09/14
+ex10-L,L,Unown,Rare,Nakaoka,0.0,14.09,0.0,0.0,0.0,2023/09/14
+ex10-M,M,Unown,Rare,Nakaoka,0.0,8.81,0.0,10.0,0.0,2023/09/14
+ex10-N,N,Unown,Rare,Nakaoka,0.0,14.63,0.0,8.0,0.0,2023/09/14
+ex10-O,O,Unown,Rare,Nakaoka,0.0,14.01,0.0,0.0,0.0,2023/09/14
+ex10-P,P,Unown,Rare,Kyoko Koizumi,0.0,10.3,0.0,0.0,0.0,2023/09/14
+ex10-Q,Q,Unown,Rare,Nakaoka,0.0,13.05,0.0,2.5,0.0,2023/09/14
+ex10-R,R,Unown,Rare,Nakaoka,0.0,13.46,0.0,7.13,0.0,2023/09/14
+ex10-S,S,Unown,Rare,Nakaoka,0.0,44.2,0.0,0.0,0.0,2023/09/14
+ex10-T,T,Unown,Rare,Kyoko Koizumi,0.0,10.87,0.0,4.5,0.0,2023/09/14
+ex10-U,U,Unown,Rare,Kyoko Koizumi,0.0,14.33,0.0,1.0,0.0,2023/09/14
+ex10-V,V,Unown,Rare,Kyoko Koizumi,0.0,9.84,0.0,7.0,0.0,2023/09/14
+ex10-W,W,Unown,Rare,Kyoko Koizumi,0.0,16.41,0.0,3.1,0.0,2023/09/14
+ex10-X,X,Unown,Rare,Kyoko Koizumi,0.0,9.73,0.0,10.0,0.0,2023/09/14
+ex10-Y,Y,Unown,Rare,Kyoko Koizumi,0.0,12.54,0.0,2.34,2.5,2023/09/14
+ex10-Z,Z,Unown,Rare,Kyoko Koizumi,0.0,24.59,0.0,7.47,0.0,2023/09/14
+ex10-!,!,Unown,Rare,Kyoko Koizumi,0.0,59.0,0.0,17.9,0.0,2023/09/14
+ex10-?,?,Unown,Rare,Kyoko Koizumi,0.0,23.33,0.0,20.0,0.0,2023/09/14

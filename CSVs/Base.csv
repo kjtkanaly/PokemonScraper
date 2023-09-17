@@ -1,0 +1,102 @@
+ID,Set Number,Card Name,Rarity,Artist,TCG Normal,TCG Holo,TCG Reverse,Normal Price($),Reverse Holo Price ($),Updated At (YYYY/MM/DD)
+base1-1,1,Alakazam,Rare Holo,Ken Sugimori,0.0,42.67,0.0,100.0,0.0,2023/09/14
+base1-2,2,Blastoise,Rare Holo,Ken Sugimori,0.0,147.15,0.0,75.51,0.0,2023/09/14
+base1-3,3,Chansey,Rare Holo,Ken Sugimori,0.0,26.48,0.0,19.43,0.0,2023/09/14
+base1-4,4,Charizard,Rare Holo,Mitsuhiro Arita,0.0,356.87,0.0,3900.0,0.0,2023/09/14
+base1-5,5,Clefairy,Rare Holo,Ken Sugimori,0.0,24.19,0.0,17.61,0.0,2023/09/14
+base1-6,6,Gyarados,Rare Holo,Mitsuhiro Arita,0.0,22.38,0.0,13.92,0.0,2023/09/14
+base1-7,7,Hitmonchan,Rare Holo,Ken Sugimori,0.0,18.0,0.0,24.0,0.0,2023/09/14
+base1-9,9,Magneton,Rare Holo,Keiji Kinebuchi,0.0,22.9,0.0,13.97,0.0,2023/09/14
+base1-10,10,Mewtwo,Rare Holo,Ken Sugimori,0.0,30.5,0.0,64.9,0.0,2023/09/14
+base1-11,11,Nidoking,Rare Holo,Ken Sugimori,0.0,30.71,0.0,0.0,0.0,2023/09/14
+base1-12,12,Ninetales,Rare Holo,Ken Sugimori,0.0,19.08,0.0,11.43,0.0,2023/09/14
+base1-13,13,Poliwrath,Rare Holo,Ken Sugimori,0.0,22.56,0.0,11.71,0.0,2023/09/14
+base1-14,14,Raichu,Rare Holo,Ken Sugimori,0.0,34.36,0.0,0.0,0.0,2023/09/14
+base1-15,15,Venusaur,Rare Holo,Mitsuhiro Arita,0.0,88.51,0.0,0.0,0.0,2023/09/14
+base1-16,16,Zapdos,Rare Holo,Ken Sugimori,0.0,23.97,0.0,18.23,0.0,2023/09/14
+base1-17,17,Beedrill,Rare,Ken Sugimori,3.67,0.0,0.0,17.31,0.0,2023/09/14
+base1-18,18,Dragonair,Rare,Mitsuhiro Arita,9.72,0.0,0.0,53.36,0.0,2023/09/14
+base1-19,19,Dugtrio,Rare,Keiji Kinebuchi,4.88,0.0,0.0,5.8,0.0,2023/09/14
+base1-20,20,Electabuzz,Rare,Ken Sugimori,6.57,0.0,0.0,7.71,0.0,2023/09/14
+base1-21,21,Electrode,Rare,Keiji Kinebuchi,4.47,0.0,0.0,0.0,0.0,2023/09/14
+base1-22,22,Pidgeotto,Rare,Ken Sugimori,6.49,0.0,0.0,19.95,0.0,2023/09/14
+base1-23,23,Arcanine,Uncommon,Ken Sugimori,2.14,0.0,0.0,3.89,0.0,2023/09/14
+base1-24,24,Charmeleon,Uncommon,Mitsuhiro Arita,0.85,0.0,0.0,1.87,0.0,2023/09/14
+base1-25,25,Dewgong,Uncommon,Mitsuhiro Arita,1.99,0.0,0.0,99.0,0.0,2023/09/14
+base1-26,26,Dratini,Uncommon,Ken Sugimori,1.2,0.0,0.0,49.95,0.0,2023/09/14
+base1-27,27,Farfetch'd,Uncommon,Ken Sugimori,0.64,0.0,0.0,1.0,0.0,2023/09/14
+base1-28,28,Growlithe,Uncommon,Ken Sugimori,1.13,0.0,0.0,3.83,0.0,2023/09/14
+base1-29,29,Haunter,Uncommon,Keiji Kinebuchi,1.06,0.0,0.0,5.97,0.0,2023/09/14
+base1-30,30,Ivysaur,Uncommon,Ken Sugimori,2.28,0.0,0.0,2.66,0.0,2023/09/14
+base1-31,31,Jynx,Uncommon,Ken Sugimori,0.63,0.0,0.0,0.96,0.0,2023/09/14
+base1-32,32,Kadabra,Uncommon,Ken Sugimori,1.24,0.0,0.0,0.0,0.0,2023/09/14
+base1-33,33,Kakuna,Uncommon,Keiji Kinebuchi,0.68,0.0,0.0,32.99,0.0,2023/09/14
+base1-34,34,Machoke,Uncommon,Ken Sugimori,0.66,0.0,0.0,0.77,0.0,2023/09/14
+base1-35,35,Magikarp,Uncommon,Mitsuhiro Arita,0.86,0.0,0.0,1.51,0.0,2023/09/14
+base1-36,36,Magmar,Uncommon,Ken Sugimori,3.42,0.0,0.0,19.23,0.0,2023/09/14
+base1-37,37,Nidorino,Uncommon,Mitsuhiro Arita,2.1,0.0,0.0,2.18,0.0,2023/09/14
+base1-38,38,Poliwhirl,Uncommon,Ken Sugimori,0.49,0.0,0.0,1.02,0.0,2023/09/14
+base1-39,39,Porygon,Uncommon,Tomoaki Imakuni,2.0,0.0,0.0,0.0,0.0,2023/09/14
+base1-40,40,Raticate,Uncommon,Ken Sugimori,1.37,0.0,0.0,1.49,0.0,2023/09/14
+base1-41,41,Seel,Uncommon,Ken Sugimori,1.13,0.0,0.0,1.55,0.0,2023/09/14
+base1-42,42,Wartortle,Uncommon,Ken Sugimori,2.49,0.0,0.0,154.0,0.0,2023/09/14
+base1-43,43,Abra,Common,Mitsuhiro Arita,0.31,0.0,0.0,4.95,0.0,2023/09/14
+base1-44,44,Bulbasaur,Common,Mitsuhiro Arita,1.87,0.0,0.0,3.87,0.0,2023/09/14
+base1-45,45,Caterpie,Common,Ken Sugimori,0.7,0.0,0.0,0.85,0.0,2023/09/14
+base1-46,46,Charmander,Common,Mitsuhiro Arita,1.17,0.0,0.0,44.48,0.0,2023/09/14
+base1-47,47,Diglett,Common,Keiji Kinebuchi,0.51,0.0,0.0,36.5,0.0,2023/09/14
+base1-48,48,Doduo,Common,Mitsuhiro Arita,0.54,0.0,0.0,1.14,0.0,2023/09/14
+base1-49,49,Drowzee,Common,Ken Sugimori,0.37,0.0,0.0,3.99,0.0,2023/09/14
+base1-50,50,Gastly,Common,Keiji Kinebuchi,0.47,0.0,0.0,5.95,0.0,2023/09/14
+base1-51,51,Koffing,Common,Mitsuhiro Arita,0.3,0.0,0.0,0.99,0.0,2023/09/14
+base1-52,52,Machop,Common,Mitsuhiro Arita,0.43,0.0,0.0,0.39,0.0,2023/09/14
+base1-53,53,Magnemite,Common,Keiji Kinebuchi,0.47,0.0,0.0,2.73,0.0,2023/09/14
+base1-54,54,Metapod,Common,Ken Sugimori,0.41,0.0,0.0,22.98,0.0,2023/09/14
+base1-55,55,Nidoran ♂,Common,Ken Sugimori,0.31,0.0,0.0,0.63,0.0,2023/09/14
+base1-56,56,Onix,Common,Ken Sugimori,0.49,0.0,0.0,1.0,0.0,2023/09/14
+base1-57,57,Pidgey,Common,Ken Sugimori,0.89,0.0,0.0,3.97,0.0,2023/09/14
+base1-58,58,Pikachu,Common,Mitsuhiro Arita,2.55,0.0,0.0,0.0,0.0,2023/09/14
+base1-59,59,Poliwag,Common,Ken Sugimori,0.45,0.0,0.0,2.49,0.0,2023/09/14
+base1-60,60,Ponyta,Common,Ken Sugimori,0.36,0.0,0.0,1.62,0.0,2023/09/14
+base1-61,61,Rattata,Common,Mitsuhiro Arita,0.34,0.0,0.0,5.99,0.0,2023/09/14
+base1-62,62,Sandshrew,Common,Ken Sugimori,0.38,0.0,0.0,0.64,0.0,2023/09/14
+base1-63,63,Squirtle,Common,Mitsuhiro Arita,2.27,0.0,0.0,3.91,0.0,2023/09/14
+base1-64,64,Starmie,Common,Keiji Kinebuchi,0.46,0.0,0.0,13.95,0.0,2023/09/14
+base1-65,65,Staryu,Common,Keiji Kinebuchi,0.45,0.0,0.0,0.99,0.0,2023/09/14
+base1-66,66,Tangela,Common,Mitsuhiro Arita,0.46,0.0,0.0,3.97,0.0,2023/09/14
+base1-67,67,Voltorb,Common,Keiji Kinebuchi,1.13,0.0,0.0,1.34,0.0,2023/09/14
+base1-68,68,Vulpix,Common,Ken Sugimori,0.5,0.0,0.0,2.49,0.0,2023/09/14
+base1-69,69,Weedle,Common,Mitsuhiro Arita,0.31,0.0,0.0,0.58,0.0,2023/09/14
+base1-70,70,Clefairy Doll,Rare,Keiji Kinebuchi,3.54,0.0,0.0,7.5,0.0,2023/09/14
+base1-71,71,Computer Search,Rare,Keiji Kinebuchi,3.1,0.0,0.0,50.0,0.0,2023/09/14
+base1-72,72,Devolution Spray,Rare,Keiji Kinebuchi,2.63,0.0,0.0,5.41,0.0,2023/09/14
+base1-73,73,Impostor Professor Oak,Rare,Ken Sugimori,3.14,0.0,0.0,0.0,0.0,2023/09/14
+base1-74,74,Item Finder,Rare,Keiji Kinebuchi,6.75,0.0,0.0,6.2,0.0,2023/09/14
+base1-75,75,Lass,Rare,Ken Sugimori,1.86,0.0,0.0,0.0,0.0,2023/09/14
+base1-76,76,Pokémon Breeder,Rare,Ken Sugimori,4.99,0.0,0.0,6.22,0.0,2023/09/14
+base1-77,77,Pokémon Trader,Rare,Ken Sugimori,2.82,0.0,0.0,0.0,0.0,2023/09/14
+base1-78,78,Scoop Up,Rare,Keiji Kinebuchi,5.66,0.0,0.0,0.0,0.0,2023/09/14
+base1-79,79,Super Energy Removal,Rare,Keiji Kinebuchi,3.06,0.0,0.0,2.46,0.0,2023/09/14
+base1-80,80,Defender,Uncommon,Keiji Kinebuchi,0.71,0.0,0.0,0.0,0.0,2023/09/14
+base1-81,81,Energy Retrieval,Uncommon,Keiji Kinebuchi,0.31,0.0,0.0,0.53,0.0,2023/09/14
+base1-82,82,Full Heal,Uncommon,Keiji Kinebuchi,0.79,0.0,0.0,0.0,0.0,2023/09/14
+base1-83,83,Maintenance,Uncommon,Keiji Kinebuchi,1.43,0.0,0.0,2.94,0.0,2023/09/14
+base1-84,84,PlusPower,Uncommon,Keiji Kinebuchi,0.36,0.0,0.0,0.0,0.0,2023/09/14
+base1-85,85,Pokémon Center,Uncommon,Keiji Kinebuchi,0.88,0.0,0.0,0.0,0.0,2023/09/14
+base1-86,86,Pokémon Flute,Uncommon,Keiji Kinebuchi,1.31,0.0,0.0,3.47,0.0,2023/09/14
+base1-87,87,Pokédex,Uncommon,Keiji Kinebuchi,0.32,0.0,0.0,0.78,0.0,2023/09/14
+base1-88,88,Professor Oak,Uncommon,Ken Sugimori,0.99,0.0,0.0,0.58,0.0,2023/09/14
+base1-89,89,Revive,Uncommon,Keiji Kinebuchi,1.57,0.0,0.0,0.0,0.0,2023/09/14
+base1-90,90,Super Potion,Uncommon,Keiji Kinebuchi,0.21,0.0,0.0,0.42,0.0,2023/09/14
+base1-91,91,Bill,Common,Ken Sugimori,0.29,0.0,0.0,0.0,0.0,2023/09/14
+base1-92,92,Energy Removal,Common,Keiji Kinebuchi,0.29,0.0,0.0,0.0,0.0,2023/09/14
+base1-93,93,Gust of Wind,Common,Keiji Kinebuchi,0.33,0.0,0.0,3.32,0.0,2023/09/14
+base1-94,94,Potion,Common,Keiji Kinebuchi,0.13,0.0,0.0,0.4,0.0,2023/09/14
+base1-95,95,Switch,Common,Keiji Kinebuchi,0.31,0.0,0.0,0.39,0.0,2023/09/14
+base1-96,96,Double Colorless Energy,Uncommon,Keiji Kinebuchi,3.14,0.0,0.0,7.45,0.0,2023/09/14
+base1-97,97,Fighting Energy,,Keiji Kinebuchi,0.25,0.0,0.0,0.24,0.0,2023/09/14
+base1-98,98,Fire Energy,,Keiji Kinebuchi,0.27,0.0,0.0,59.95,0.0,2023/09/14
+base1-99,99,Grass Energy,,Keiji Kinebuchi,0.25,0.0,0.0,0.24,0.0,2023/09/14
+base1-100,100,Lightning Energy,,Keiji Kinebuchi,0.28,0.0,0.0,0.0,0.0,2023/09/14
+base1-101,101,Psychic Energy,,Keiji Kinebuchi,0.29,0.0,0.0,0.36,0.0,2023/09/14
+base1-102,102,Water Energy,,Keiji Kinebuchi,0.29,0.0,0.0,0.21,0.0,2023/09/14
